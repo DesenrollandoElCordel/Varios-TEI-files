@@ -5,8 +5,8 @@
     <fileDesc>
       <titleStmt>
         <title>El cantor de las hermosas</title>
-        <respStmt>
-          <name xml:id="PJ">Pauline Jacsont</name>
+        <respStmt xml:id="PJ">
+          <name>Pauline Jacsont</name>
           <resp>Segmentación y transcripción</resp>
           <resp>Codificación TEI</resp>
         </respStmt>
