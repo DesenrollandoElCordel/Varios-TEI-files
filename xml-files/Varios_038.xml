@@ -204,7 +204,7 @@
       <zone xml:id="Varios_038_1_BT221_2" n="2" type="CustomZone" subtype="impresorNum" points="1444,65 1444,181 1705,181 1705,65 " source="Varios_038_1/1444,65,261,116/full/0/default" corresp="CustomZone:impresorNum">
         <zone xml:id="Varios_038_1_BT221_2_LT83_1" type="DefaultLine" subtype="none" points="1489,133 1480,43 1552,37 1555,37 1555,37 1555,37 1557,37 1557,37 1598,54 1618,63 1662,63 1669,124 1669,162 1579,155 1489,170 " source="Varios_038_1/1480,37,189,133/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_038_1_BT221_2_LT83_1_1" points="1489,133 1669,124 "/>
-          <line>Núm. 11.</line>
+          <line>Núm. 11.</line>
         </zone>
       </zone>
       <zone xml:id="Varios_038_1_BT223_3" n="3" type="CustomZone" subtype="title" points="1421,1726 1425,1727 1425,1828 1083,1828 1083,1898 1089,1898 1070,1899 1054,1907 867,1907 787,1881 749,1886 749,1847 432,1847 432,1711 478,1711 478,1719 768,1719 768,1625 1048,1627 1048,1703 1397,1703 " source="Varios_038_1/432,1625,993,282/full/0/default" corresp="CustomZone:title">
@@ -236,7 +236,7 @@
         </zone>
         <zone xml:id="Varios_038_1_BT227_4_LT83_5" type="DefaultLine" subtype="none" points="182,2223 177,2179 298,2168 300,2168 300,2168 300,2168 302,2168 329,2177 346,2182 379,2177 449,2164 449,2164 451,2164 451,2164 451,2164 454,2164 489,2175 493,2175 677,2175 677,2173 688,2164 688,2162 688,2162 690,2162 690,2162 690,2162 693,2162 693,2162 695,2162 695,2162 783,2173 787,2208 789,2221 701,2245 699,2245 699,2245 699,2245 504,2249 502,2249 502,2249 500,2249 500,2249 467,2236 456,2234 355,2234 182,2249 " source="Varios_038_1/177,2162,612,87/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_038_1_BT227_4_LT83_5_1" points="184,2225 788,2210 " corresp="DefaultLine"/>
-          <line>«¿Quién compra à la Turronera ?»</line>
+          <line>«¿Quién compra à la Turronera ?»</line>
         </zone>
         <zone xml:id="Varios_038_1_BT227_4_LT83_6" type="DefaultLine" subtype="none" points="280,2274 278,2225 557,2232 561,2267 561,2280 280,2282 " source="Varios_038_1/278,2225,283,57/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_038_1_BT227_4_LT83_6_1" points="280,2274 561,2267 " corresp="DefaultLine"/>
@@ -248,7 +248,7 @@
         </zone>
         <zone xml:id="Varios_038_1_BT227_4_LT83_8" type="DefaultLine" subtype="none" points="287,2379 285,2333 443,2339 480,2335 565,2326 565,2326 568,2326 568,2326 568,2326 570,2326 607,2339 609,2374 607,2394 287,2394 " source="Varios_038_1/285,2326,324,68/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_038_1_BT227_4_LT83_8_1" points="287,2379 609,2374 " corresp="DefaultLine"/>
-          <line>Prueben, señores,</line>
+          <line>Prueben, señores,</line>
         </zone>
         <zone xml:id="Varios_038_1_BT227_4_LT83_9" type="DefaultLine" subtype="none" points="285,2436 274,2398 282,2385 282,2385 285,2385 285,2383 285,2383 287,2383 287,2383 287,2383 289,2383 289,2383 289,2383 291,2383 458,2392 464,2383 467,2383 467,2381 467,2381 469,2381 469,2381 469,2381 471,2381 471,2381 471,2381 473,2381 658,2392 662,2431 662,2469 607,2471 605,2471 605,2471 605,2471 603,2471 603,2471 592,2466 548,2447 506,2462 504,2462 502,2462 502,2462 502,2462 500,2462 282,2449 " source="Varios_038_1/274,2381,388,90/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_038_1_BT227_4_LT83_9_1" points="285,2436 662,2431 " corresp="DefaultLine"/>
@@ -262,11 +262,11 @@
         </zone>
         <zone xml:id="Varios_038_1_BT227_5_LT83_2" type="DefaultLine" subtype="none" points="991,2050 987,2000 1500,2004 1504,2041 1502,2055 991,2061 " source="Varios_038_1/987,2000,517,61/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_038_1_BT227_5_LT83_2_1" points="991,2050 1504,2041 " corresp="DefaultLine"/>
-          <line>Aqui está el Turron sabroso:</line>
+          <line>Aqui está el Turron sabroso:</line>
         </zone>
         <zone xml:id="Varios_038_1_BT227_5_LT83_3" type="DefaultLine" subtype="none" points="947,2101 943,2046 993,2044 995,2044 995,2044 995,2044 997,2044 997,2044 997,2044 1000,2044 1000,2046 1024,2061 1070,2048 1072,2048 1072,2048 1074,2048 1074,2048 1074,2048 1076,2048 1118,2063 1151,2063 1162,2048 1164,2048 1164,2046 1164,2046 1166,2046 1166,2046 1166,2046 1166,2046 1169,2046 1169,2046 1171,2046 1171,2046 1171,2046 1173,2046 1175,2046 1212,2059 1241,2046 1243,2046 1243,2046 1245,2046 1245,2046 1245,2046 1248,2046 1248,2046 1248,2046 1250,2046 1250,2046 1252,2046 1280,2059 1390,2048 1397,2096 1395,2109 947,2114 " source="Varios_038_1/943,2044,454,70/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_038_1_BT227_5_LT83_3_1" points="949,2103 1398,2098 " corresp="DefaultLine"/>
-          <line>El barató, güeno y fino!</line>
+          <line>El barató, güeno y fino!</line>
         </zone>
         <zone xml:id="Varios_038_1_BT227_5_LT83_4" type="DefaultLine" subtype="none" points="951,2151 951,2111 1368,2111 1368,2151 1368,2166 951,2166 " source="Varios_038_1/951,2111,417,55/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_038_1_BT227_5_LT83_4_1" points="954,2153 1369,2153 " corresp="DefaultLine"/>
@@ -1052,16 +1052,16 @@
               <l>
                 <hi rend="cursiva">Turron</hi> fino voy vendieno,</l>
               <l>Todo el dia repitiendo</l>
-              <l>«¿Quién compra à la <hi rend="cursiva">Turronera</hi> ?»</l>
+              <l>«¿Quién compra à la <hi rend="cursiva">Turronera</hi> ?»</l>
               <l>El <hi rend="cursiva">Turron</hi> fino,</l>
               <l>Sabroso y güeno,</l>
-              <l>Prueben, señores,</l>
+              <l>Prueben, señores,</l>
               <l>Que es el que vendo,</l>
             </lg>
             <lg n="2">
               <head type="titulo_estrofa">II.</head>
-              <l>Aqui está el <hi rend="cursiva">Turron</hi> sabroso:</l>
-              <l>El barató, güeno y fino!</l>
+              <l>Aqui está el <hi rend="cursiva">Turron</hi> sabroso:</l>
+              <l>El barató, güeno y fino!</l>
               <l>Aqui está el <hi rend="cursiva">alicantino</hi>
               </l>
               <l>Que es mas que la miel gustoso?</l>

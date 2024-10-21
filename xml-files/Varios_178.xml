@@ -42,11 +42,11 @@
       <sourceDesc>
         <biblFull>
           <titleStmt>
-            <title type="titulo_completo">Horrible Catástrofe que el dia 27 de Agosto del año de
-              gracia 1883 sumergió en el mar de la Sonda la isla de KRAKATOA con las ciudades de
+            <title type="titulo_completo">Horrible Catástrofe que el dia 27 de Agosto del año de
+              gracia 1883 sumergió en el mar de la Sonda la isla de KRAKATOA con las ciudades de
               AUGER, TJERINGEN, TELOGBETONG, parte de las costas de las islas de SUMATRA y JAVA,
-              pérdida de los buques SIAK, VILHELMINA y otros muchos, y causando una mortandad de
-              mas de 30.000 víctimas!!!!</title>
+              pérdida de los buques SIAK, VILHELMINA y otros muchos, y causando una mortandad de
+              mas de 30.000 víctimas!!!!</title>
             <title type="titulo_breve">Horrible Catástrofe</title>
           </titleStmt>
           <editionStmt>
@@ -211,7 +211,7 @@
         </zone>
         <zone xml:id="Varios_178_1_BT223_1_LT183_2" type="CustomZone" subtype="none" points="1680,1535 1658,1529 1636,1527 1614,1524 1592,1522 1585,1520 1342,1518 1327,1502 1324,1502 1322,1502 1250,1500 1248,1500 1245,1500 1208,1516 1186,1502 1184,1502 1182,1502 1094,1502 1092,1502 1090,1502 1057,1518 1022,1502 1019,1502 1017,1502 940,1520 934,1520 932,1520 908,1502 905,1502 903,1502 901,1502 899,1502 846,1516 778,1500 776,1500 774,1500 772,1500 754,1513 686,1502 684,1502 682,1502 642,1518 640,1518 627,1518 600,1518 576,1498 574,1498 572,1498 570,1498 122,1516 122,1566 122,1592 1684,1592 1686,1570 1680,1535 1680,1535 " source="Varios_178_1/122.0,1498.0,1564.0,94.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT223_1_LT183_2_1" points="124,1568 1687,1573 "/>
-          <line>que el dia 27 de Agosto del año de gracia 1883 sumergió en el mar</line>
+          <line>que el dia 27 de Agosto del año de gracia 1883 sumergió en el mar</line>
         </zone>
         <zone xml:id="Varios_178_1_BT223_1_LT183_3" type="CustomZone" subtype="none" points="177,1623 175,1638 1638,1645 1642,1625 1640,1579 177,1570 177,1623 " source="Varios_178_1/175.0,1570.0,1467.0,75.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT223_1_LT183_3_1" points="178,1625 1644,1627 "/>
@@ -223,7 +223,7 @@
         </zone>
         <zone xml:id="Varios_178_1_BT223_1_LT183_5" type="CustomZone" subtype="none" points="785,1678 763,1678 741,1678 719,1678 704,1678 614,1684 605,1678 587,1678 565,1678 543,1678 522,1678 500,1678 478,1678 456,1678 434,1678 412,1678 390,1678 368,1678 346,1678 322,1684 302,1678 302,1678 280,1678 282,1735 282,1743 1517,1752 1520,1732 1513,1682 837,1684 794,1678 785,1678 " source="Varios_178_1/280.0,1678.0,1240.0,74.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT223_1_LT183_5_1" points="283,1736 1522,1735 "/>
-          <line>de SUMATRA y JAVA, pérdida de los buques SIAK,</line>
+          <line>de SUMATRA y JAVA, pérdida de los buques SIAK,</line>
         </zone>
         <zone xml:id="Varios_178_1_BT223_1_LT183_6" type="CustomZone" subtype="none" points="1305,1735 1283,1735 1223,1741 1206,1743 1204,1741 1195,1735 1195,1735 1173,1735 1169,1735 1155,1741 1151,1743 1114,1741 1046,1735 1041,1735 1019,1735 997,1735 976,1735 965,1735 960,1739 956,1743 892,1746 822,1737 800,1735 800,1735 778,1735 756,1735 736,1737 647,1746 636,1735 625,1735 603,1735 581,1735 559,1735 537,1735 515,1735 493,1735 471,1735 449,1735 427,1735 405,1735 383,1735 361,1735 339,1735 342,1787 342,1803 1449,1805 1454,1783 1449,1746 1329,1746 1327,1743 1313,1735 1305,1735 " source="Varios_178_1/339.0,1735.0,1115.0,70.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT223_1_LT183_6_1" points="344,1789 1456,1785 "/>
@@ -231,7 +231,7 @@
         </zone>
         <zone xml:id="Varios_178_1_BT223_1_LT183_7" type="CustomZone" subtype="none" points="416,1835 416,1895 528,1884 625,1895 627,1895 629,1895 655,1881 668,1895 671,1895 673,1895 675,1897 726,1897 726,1895 728,1895 730,1895 767,1868 787,1884 789,1884 791,1884 794,1884 796,1884 837,1868 978,1868 1008,1884 1011,1884 1013,1884 1171,1868 1188,1881 1188,1884 1191,1884 1193,1884 1195,1886 1250,1886 1250,1884 1252,1884 1287,1868 1337,1895 1340,1895 1342,1897 1399,1897 1399,1835 1397,1789 416,1789 416,1835 " source="Varios_178_1/416.0,1789.0,983.0,108.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT223_1_LT183_7_1" points="418,1838 1401,1838 "/>
-          <line>mortandad de mas de 30.OOo víctimas!!!!</line>
+          <line>mortandad de mas de 30.OOo víctimas!!!!</line>
         </zone>
       </zone>
       <zone xml:id="Varios_178_1_BT227_2" n="2" type="MainZone" subtype="columns" points="682,2138 752,2313 726,2390 193,2390 184,2252 245,2179 193,2144 210,1962 473,1910 787,1962 778,2065 " source="Varios_178_1/184.0,1910.0,603.0,480.0/full/0/default" corresp="MainZone:columns">
@@ -241,7 +241,7 @@
         </zone>
         <zone xml:id="Varios_178_1_BT227_2_LT182_2" type="DefaultLine" subtype="none" points="750,1956 728,1952 706,1947 684,1945 662,1941 640,1936 618,1934 587,1941 543,1925 541,1925 539,1925 537,1925 517,1930 508,1941 486,1943 482,1938 480,1941 368,1927 355,1932 333,1936 313,1938 313,1941 309,1941 289,1945 267,1949 245,1954 245,1987 245,2006 763,2011 765,1987 752,1956 750,1956 " source="Varios_178_1/245.0,1925.0,520.0,86.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT227_2_LT182_2_1" points="245,1987 765,1987 " corresp="DefaultLine"/>
-          <line>¿Cómo hablar de terremotos</line>
+          <line>¿Cómo hablar de terremotos</line>
         </zone>
         <zone xml:id="Varios_178_1_BT227_2_LT182_3" type="DefaultLine" subtype="none" points="203,2026 203,2030 203,2057 750,2050 750,2030 750,1998 212,1998 203,2026 " source="Varios_178_1/203.0,1998.0,547.0,59.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT227_2_LT182_3_1" points="203,2030 750,2030 " corresp="DefaultLine"/>
@@ -253,7 +253,7 @@
         </zone>
         <zone xml:id="Varios_178_1_BT227_2_LT182_5" type="DefaultLine" subtype="none" points="206,2122 206,2138 640,2140 642,2122 642,2083 206,2081 206,2122 " source="Varios_178_1/206.0,2081.0,436.0,59.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT227_2_LT182_5_1" points="206,2122 642,2122 " corresp="DefaultLine"/>
-          <line>Sin llorar lágrima viva?</line>
+          <line>Sin llorar lágrima viva?</line>
         </zone>
         <zone xml:id="Varios_178_1_BT227_2_LT182_6" type="DefaultLine" subtype="none" points="486,2201 508,2206 511,2184 511,2142 489,2133 486,2184 486,2201 " source="Varios_178_1/486.0,2133.0,25.0,73.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT227_2_LT182_6_1" points="486,2184 511,2184 " corresp="DefaultLine"/>
@@ -283,7 +283,7 @@
         </zone>
         <zone xml:id="Varios_178_1_BT227_3_LT182_2" type="DefaultLine" subtype="none" points="1329,1945 1307,1945 1302,1938 1090,1943 1087,1945 1065,1952 1068,1989 1068,2004 1449,2008 1454,1984 1447,1936 1333,1938 1329,1945 " source="Varios_178_1/1065.0,1936.0,389.0,72.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT227_3_LT182_2_1" points="1068,1989 1454,1984 " corresp="DefaultLine"/>
-          <line>Mas allá de Filipínas</line>
+          <line>Mas allá de Filipínas</line>
         </zone>
         <zone xml:id="Varios_178_1_BT227_3_LT182_3" type="DefaultLine" subtype="none" points="1024,2030 1022,2044 1511,2048 1515,2035 1513,1998 1024,1991 1024,2030 " source="Varios_178_1/1022.0,1991.0,493.0,57.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT227_3_LT182_3_1" points="1024,2030 1515,2035 " corresp="DefaultLine"/>
@@ -291,7 +291,7 @@
         </zone>
         <zone xml:id="Varios_178_1_BT227_3_LT182_4" type="DefaultLine" subtype="none" points="1026,2074 1024,2092 1456,2101 1460,2079 1458,2046 1041,2041 1026,2074 " source="Varios_178_1/1024.0,2041.0,436.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT227_3_LT182_4_1" points="1026,2074 1460,2079 " corresp="DefaultLine"/>
-          <line>Están, entre otras islas,</line>
+          <line>Están, entre otras islas,</line>
         </zone>
         <zone xml:id="Varios_178_1_BT227_3_LT182_5" type="DefaultLine" subtype="none" points="1026,2125 1026,2155 1530,2155 1530,2125 1530,2090 1041,2090 1026,2125 " source="Varios_178_1/1026.0,2090.0,504.0,65.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_1_BT227_3_LT182_5_1" points="1026,2125 1530,2125 " corresp="DefaultLine"/>
@@ -361,7 +361,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_1_LT182_10" type="DefaultLine" subtype="none" points="136,568 136,586 295,599 297,599 299,599 328,586 444,597 446,597 448,597 481,586 587,595 589,595 591,595 628,580 628,562 622,529 134,533 136,568 " source="Varios_178_2/134.0,529.0,494.0,70.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_1_LT182_10_1" points="136,568 628,562 " corresp="DefaultLine"/>
-          <line>Allí en Java construyeron.</line>
+          <line>Allí en Java construyeron.</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_1_LT182_11" type="DefaultLine" subtype="none" points="409,651 409,675 452,675 452,651 452,599 409,591 409,651 " source="Varios_178_2/409.0,591.0,43.0,84.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_1_LT182_11_1" points="409,651 452,651 " corresp="DefaultLine"/>
@@ -401,7 +401,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_1_LT182_20" type="DefaultLine" subtype="none" points="142,1095 142,1111 279,1124 281,1124 374,1113 398,1111 427,1113 491,1120 494,1120 496,1120 498,1120 506,1113 518,1107 613,1113 616,1089 609,1056 140,1060 142,1095 " source="Varios_178_2/140.0,1056.0,476.0,68.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_1_LT182_20_1" points="142,1095 616,1089 " corresp="DefaultLine"/>
-          <line>Formándole un cinturon.</line>
+          <line>Formándole un cinturon.</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_1_LT182_21" type="DefaultLine" subtype="none" points="411,1165 411,1178 452,1182 454,1161 448,1118 405,1118 411,1165 " source="Varios_178_2/405.0,1118.0,49.0,64.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_1_LT182_21_1" points="411,1165 454,1161 " corresp="DefaultLine"/>
@@ -437,7 +437,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_1_LT182_29" type="DefaultLine" subtype="none" points="415,1531 413,1531 384,1539 363,1543 341,1537 320,1533 318,1533 316,1533 314,1533 295,1537 260,1545 144,1537 146,1581 146,1597 630,1593 632,1572 628,1541 578,1529 576,1529 518,1539 504,1541 483,1539 417,1531 415,1531 " source="Varios_178_2/144.0,1529.0,488.0,68.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_1_LT182_29_1" points="146,1581 632,1572 " corresp="DefaultLine"/>
-          <line>Para esplotar á los chinos</line>
+          <line>Para esplotar á los chinos</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_1_LT182_30" type="DefaultLine" subtype="none" points="144,1626 144,1655 274,1663 277,1663 279,1663 303,1655 339,1647 374,1655 380,1657 382,1657 384,1657 396,1655 454,1647 469,1655 469,1657 471,1657 473,1657 475,1657 477,1657 479,1657 479,1655 481,1655 489,1645 653,1655 655,1620 651,1585 142,1583 144,1626 " source="Varios_178_2/142.0,1583.0,513.0,80.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_1_LT182_30_1" points="144,1626 655,1620 " corresp="DefaultLine"/>
@@ -457,7 +457,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_1_LT182_34" type="DefaultLine" subtype="none" points="148,1845 148,1860 580,1853 582,1839 576,1808 146,1812 148,1845 " source="Varios_178_2/146.0,1808.0,436.0,52.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_1_LT182_34_1" points="148,1845 582,1839 " corresp="DefaultLine"/>
-          <line>A sus bahías y puertos</line>
+          <line>A sus bahías y puertos</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_1_LT182_35" type="DefaultLine" subtype="none" points="146,1891 146,1913 316,1907 483,1919 537,1924 539,1924 541,1924 549,1922 578,1909 704,1922 706,1882 704,1851 659,1839 657,1839 655,1839 498,1849 419,1853 144,1847 146,1891 " source="Varios_178_2/144.0,1839.0,562.0,85.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_1_LT182_35_1" points="146,1891 706,1882 " corresp="DefaultLine"/>
@@ -471,7 +471,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_2" type="DefaultLine" subtype="none" points="1411,132 1391,126 1370,119 1364,117 1331,128 1329,128 1325,128 1265,121 1246,121 1225,121 1221,117 1000,124 1000,126 1000,161 998,173 1409,177 1413,165 1413,132 1411,132 " source="Varios_178_2/998.0,117.0,415.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_2_1" points="1000,161 1413,165 " corresp="DefaultLine"/>
-          <line>Y no muy lejos están</line>
+          <line>Y no muy lejos están</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_3" type="DefaultLine" subtype="none" points="957,212 957,225 1366,227 1370,206 1366,171 955,165 957,212 " source="Varios_178_2/955.0,165.0,415.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_3_1" points="957,212 1370,206 " corresp="DefaultLine"/>
@@ -499,7 +499,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_9" type="DefaultLine" subtype="none" points="963,514 963,529 1339,527 1341,508 1335,473 961,477 963,514 " source="Varios_178_2/961.0,473.0,380.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_9_1" points="963,514 1341,508 " corresp="DefaultLine"/>
-          <line>Pero la fe del Señor</line>
+          <line>Pero la fe del Señor</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_10" type="DefaultLine" subtype="none" points="1025,514 1004,514 983,514 963,522 965,560 965,589 1391,578 1393,578 1463,586 1465,586 1467,586 1498,574 1498,555 1494,522 1430,510 1428,510 1225,522 1039,514 1025,514 " source="Varios_178_2/963.0,510.0,535.0,79.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_10_1" points="965,560 1498,555 " corresp="DefaultLine"/>
@@ -515,15 +515,15 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_13" type="DefaultLine" subtype="none" points="963,733 963,750 1542,756 1544,733 1542,690 1134,698 963,688 963,733 " source="Varios_178_2/963.0,688.0,581.0,68.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_13_1" points="963,733 1544,733 " corresp="DefaultLine"/>
-          <line>El Señor que está en los cielos</line>
+          <line>El Señor que está en los cielos</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_14" type="DefaultLine" subtype="none" points="965,777 965,791 1533,806 1535,777 1535,744 965,737 965,777 " source="Varios_178_2/965.0,737.0,570.0,69.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_14_1" points="965,777 1535,777 " corresp="DefaultLine"/>
-          <line>Te sumergió en hondos duelos</line>
+          <line>Te sumergió en hondos duelos</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_15" type="DefaultLine" subtype="none" points="1232,779 1211,779 1190,779 1170,779 1149,779 1145,779 963,783 963,822 961,841 1132,851 1134,851 1136,851 1170,841 1176,841 1182,841 1240,853 1242,853 1335,843 1428,853 1430,853 1432,853 1453,841 1455,826 1453,789 1248,779 1232,779 " source="Varios_178_2/961.0,779.0,494.0,74.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_15_1" points="963,822 1455,826 " corresp="DefaultLine"/>
-          <line>Diciendo:—Llegó tu hora.</line>
+          <line>Diciendo:—Llegó tu hora.</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_16" type="DefaultLine" subtype="none" points="1227,907 1227,923 1304,923 1304,903 1300,859 1267,849 1265,849 1263,849 1261,849 1223,861 1227,907 " source="Varios_178_2/1223.0,849.0,81.0,74.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_16_1" points="1227,907 1304,903 " corresp="DefaultLine"/>
@@ -535,7 +535,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_18" type="DefaultLine" subtype="none" points="969,996 969,1010 1393,1016 1397,992 1393,961 967,952 969,996 " source="Varios_178_2/967.0,952.0,430.0,64.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_18_1" points="969,996 1397,992 " corresp="DefaultLine"/>
-          <line>Y tus árboles gigantes</line>
+          <line>Y tus árboles gigantes</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_19" type="DefaultLine" subtype="none" points="965,1041 965,1056 1424,1064 1426,1041 1426,1008 965,1008 965,1041 " source="Varios_178_2/965.0,1008.0,461.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_19_1" points="965,1041 1426,1041 " corresp="DefaultLine"/>
@@ -551,19 +551,19 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_22" type="DefaultLine" subtype="none" points="1006,1209 1006,1225 1494,1231 1496,1209 1496,1173 1447,1161 1444,1161 1401,1169 1395,1169 1393,1169 1372,1155 1370,1155 1368,1155 1366,1155 1364,1155 1335,1167 1327,1171 1165,1171 1143,1159 1136,1155 1134,1155 1132,1155 1006,1155 1006,1209 " source="Varios_178_2/1006.0,1155.0,490.0,76.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_22_1" points="1006,1209 1496,1209 " corresp="DefaultLine"/>
-          <line>Todo á merced de las olas</line>
+          <line>Todo á merced de las olas</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_23" type="DefaultLine" subtype="none" points="961,1254 961,1277 1391,1277 1391,1254 1391,1223 961,1223 961,1254 " source="Varios_178_2/961.0,1223.0,430.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_23_1" points="961,1254 1391,1254 " corresp="DefaultLine"/>
-          <line>con espanto terrorífico</line>
+          <line>con espanto terrorífico</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_24" type="DefaultLine" subtype="none" points="965,1297 965,1314 1362,1314 1362,1297 1360,1256 965,1262 965,1297 " source="Varios_178_2/965.0,1256.0,397.0,58.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_24_1" points="965,1297 1362,1297 " corresp="DefaultLine"/>
-          <line>en el océano Pacífico</line>
+          <line>en el océano Pacífico</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_25" type="DefaultLine" subtype="none" points="1232,1299 1211,1299 1194,1299 1184,1308 1050,1299 1048,1299 963,1310 965,1343 965,1361 1283,1374 1285,1374 1287,1374 1314,1361 1351,1374 1354,1374 1356,1374 1432,1359 1432,1339 1428,1308 1246,1299 1232,1299 " source="Varios_178_2/963.0,1299.0,469.0,75.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_25_1" points="965,1343 1432,1339 " corresp="DefaultLine"/>
-          <line>cayó destrozado á solas.</line>
+          <line>cayó destrozado á solas.</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_26" type="DefaultLine" subtype="none" points="1225,1432 1225,1444 1300,1446 1302,1428 1298,1378 1221,1374 1225,1432 " source="Varios_178_2/1221.0,1374.0,81.0,72.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_26_1" points="1225,1432 1302,1428 " corresp="DefaultLine"/>
@@ -583,7 +583,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_30" type="DefaultLine" subtype="none" points="1380,1568 1360,1568 1337,1576 1246,1568 1244,1568 1089,1581 981,1572 979,1572 977,1572 975,1572 967,1578 969,1616 969,1638 1023,1638 1027,1640 1046,1653 1048,1653 1050,1653 1052,1653 1054,1653 1103,1640 1120,1636 1134,1640 1167,1651 1170,1651 1172,1651 1227,1640 1248,1638 1331,1643 1447,1647 1449,1647 1451,1647 1459,1643 1478,1632 1500,1643 1507,1607 1502,1576 1380,1566 1380,1568 " source="Varios_178_2/967.0,1566.0,540.0,87.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_30_1" points="969,1616 1507,1607 " corresp="DefaultLine"/>
-          <line>Que no esté dentro del mar.</line>
+          <line>Que no esté dentro del mar.</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_31" type="DefaultLine" subtype="none" points="1232,1707 1232,1723 1306,1723 1306,1707 1306,1661 1232,1661 1232,1707 " source="Varios_178_2/1232.0,1661.0,74.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_31_1" points="1232,1707 1306,1707 " corresp="DefaultLine"/>
@@ -595,7 +595,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_33" type="DefaultLine" subtype="none" points="967,1791 967,1810 1459,1818 1461,1791 1459,1752 1041,1758 1039,1758 992,1748 990,1748 988,1748 967,1758 967,1791 " source="Varios_178_2/967.0,1748.0,494.0,70.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_33_1" points="967,1791 1461,1791 " corresp="DefaultLine"/>
-          <line>Como sucedió el percance,</line>
+          <line>Como sucedió el percance,</line>
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_34" type="DefaultLine" subtype="none" points="971,1839 971,1853 1395,1849 1397,1835 1393,1804 969,1800 971,1839 " source="Varios_178_2/969.0,1800.0,428.0,53.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_34_1" points="971,1839 1397,1835 " corresp="DefaultLine"/>
@@ -603,7 +603,7 @@
         </zone>
         <zone xml:id="Varios_178_2_BT227_2_LT182_35" type="DefaultLine" subtype="none" points="986,1839 983,1839 981,1839 969,1845 971,1884 971,1909 1035,1926 1037,1928 1081,1928 1081,1926 1083,1926 1085,1926 1085,1924 1095,1913 1101,1909 1279,1911 1285,1919 1289,1922 1289,1924 1292,1924 1294,1924 1296,1924 1316,1922 1366,1911 1447,1924 1451,1880 1447,1847 988,1839 986,1839 " source="Varios_178_2/969.0,1839.0,482.0,89.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_2_BT227_2_LT182_35_1" points="971,1884 1451,1880 " corresp="DefaultLine"/>
-          <line>Que yo os lo voy á decir.</line>
+          <line>Que yo os lo voy á decir.</line>
         </zone>
       </zone>
       <zone xml:id="Varios_178_2_BT221_3" n="3" type="MarginTextZone" subtype="colophon" points="403,2040 403,2130 1326,2130 1326,2040 " source="Varios_178_2/403.0,2040.0,923.0,90.0/full/0/default" corresp="MarginTextZone:colophon"/>
@@ -631,7 +631,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_4" type="DefaultLine" subtype="none" points="651,537 630,537 609,537 589,537 568,537 547,537 527,537 506,537 485,537 465,537 444,537 423,537 403,537 382,537 361,537 341,537 320,537 299,537 279,537 258,537 237,537 217,537 217,578 217,597 669,597 669,578 669,535 651,535 651,537 " source="Varios_178_3/217.0,535.0,452.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_4_1" points="217,578 669,578 " corresp="DefaultLine"/>
-          <line>El cielo y sus cercanías,</line>
+          <line>El cielo y sus cercanías,</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_5" type="DefaultLine" subtype="none" points="221,626 221,646 326,651 336,661 336,663 339,663 341,663 343,663 537,646 595,661 597,661 599,663 709,663 709,661 711,661 752,640 752,622 748,586 219,582 221,626 " source="Varios_178_3/219.0,582.0,533.0,81.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_5_1" points="221,626 752,622 " corresp="DefaultLine"/>
@@ -655,7 +655,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_10" type="DefaultLine" subtype="none" points="219,882 219,903 644,907 647,907 649,907 669,894 669,878 663,847 217,849 219,882 " source="Varios_178_3/217.0,847.0,452.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_10_1" points="219,882 669,878 " corresp="DefaultLine"/>
-          <line>Aquellas señas que veo.</line>
+          <line>Aquellas señas que veo.</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_11" type="DefaultLine" subtype="none" points="481,971 527,975 531,965 533,930 487,911 483,961 481,971 " source="Varios_178_3/481.0,911.0,52.0,64.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_11_1" points="485,963 533,966 " corresp="DefaultLine"/>
@@ -663,7 +663,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_12" type="DefaultLine" subtype="none" points="529,965 508,965 487,965 485,958 260,958 260,1006 258,1020 661,1031 665,1010 665,958 529,958 529,965 " source="Varios_178_3/258.0,958.0,407.0,73.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_12_1" points="260,1006 665,1010 " corresp="DefaultLine"/>
-          <line>Diciendo así señalaba</line>
+          <line>Diciendo así señalaba</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_13" type="DefaultLine" subtype="none" points="217,1051 214,1064 465,1078 467,1078 684,1068 686,1056 686,1020 217,1008 217,1051 " source="Varios_178_3/214.0,1008.0,472.0,70.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_13_1" points="217,1051 686,1056 " corresp="DefaultLine"/>
@@ -687,11 +687,11 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_18" type="DefaultLine" subtype="none" points="217,1316 217,1335 680,1328 682,1312 678,1281 214,1273 217,1316 " source="Varios_178_3/214.0,1273.0,468.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_18_1" points="217,1316 682,1312 " corresp="DefaultLine"/>
-          <line>Fué un marinero á sacar</line>
+          <line>Fué un marinero á sacar</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_19" type="DefaultLine" subtype="none" points="570,1314 549,1314 529,1314 525,1314 504,1324 496,1324 291,1316 281,1316 260,1316 239,1316 233,1316 219,1322 221,1361 221,1374 802,1374 802,1357 797,1324 578,1314 570,1314 " source="Varios_178_3/219.0,1314.0,583.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_19_1" points="221,1361 802,1357 " corresp="DefaultLine"/>
-          <line>Vió que estaba ardiendo el mar</line>
+          <line>Vió que estaba ardiendo el mar</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_20" type="DefaultLine" subtype="none" points="223,1405 223,1430 266,1442 268,1442 270,1442 729,1434 729,1405 729,1364 223,1361 223,1405 " source="Varios_178_3/223.0,1361.0,506.0,81.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_20_1" points="223,1405 729,1405 " corresp="DefaultLine"/>
@@ -723,7 +723,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_27" type="DefaultLine" subtype="none" points="523,1764 502,1764 481,1762 479,1760 473,1760 460,1750 450,1742 448,1742 446,1742 444,1742 442,1742 421,1748 396,1756 361,1746 349,1742 347,1742 345,1742 343,1742 341,1742 336,1744 316,1756 303,1746 303,1744 301,1744 299,1744 254,1742 254,1804 252,1818 357,1835 359,1835 417,1826 444,1822 781,1839 785,1808 785,1764 727,1764 725,1760 709,1746 709,1744 706,1744 704,1744 702,1744 700,1744 665,1754 622,1744 620,1744 618,1744 616,1744 595,1756 591,1758 587,1754 570,1744 568,1744 566,1744 564,1744 562,1744 541,1752 523,1758 523,1764 " source="Varios_178_3/252.0,1742.0,533.0,97.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_27_1" points="254,1804 785,1808 " corresp="DefaultLine"/>
-          <line>La tierra empezó á moverse</line>
+          <line>La tierra empezó á moverse</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_28" type="DefaultLine" subtype="none" points="214,1847 212,1860 673,1866 678,1851 678,1818 214,1810 214,1847 " source="Varios_178_3/212.0,1810.0,466.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_28_1" points="214,1847 678,1851 " corresp="DefaultLine"/>
@@ -747,7 +747,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_33" type="DefaultLine" subtype="none" points="446,2068 425,2068 405,2068 384,2068 374,2068 274,2074 219,2064 219,2110 217,2120 694,2124 698,2114 698,2079 458,2068 446,2068 " source="Varios_178_3/217.0,2064.0,481.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_33_1" points="219,2110 698,2114 " corresp="DefaultLine"/>
-          <line>Reforzó bien las amarras,</line>
+          <line>Reforzó bien las amarras,</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_2_LT182_34" type="DefaultLine" subtype="none" points="694,2114 673,2114 653,2114 632,2114 611,2114 591,2114 570,2114 549,2114 529,2114 508,2114 487,2114 467,2114 446,2112 425,2112 405,2112 384,2112 363,2112 343,2112 322,2112 301,2112 281,2112 260,2112 239,2112 219,2112 219,2155 217,2167 281,2180 283,2180 425,2174 487,2172 496,2176 510,2182 512,2182 514,2184 797,2184 800,2159 800,2112 694,2112 694,2114 " source="Varios_178_3/217.0,2112.0,583.0,72.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_2_LT182_34_1" points="219,2155 800,2159 " corresp="DefaultLine"/>
@@ -769,7 +769,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_3" type="DefaultLine" subtype="none" points="1037,535 1037,555 1455,555 1457,531 1451,493 1035,498 1037,535 " source="Varios_178_3/1035.0,493.0,422.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_3_1" points="1037,535 1457,531 " corresp="DefaultLine"/>
-          <line>Cayó como una ceniza</line>
+          <line>Cayó como una ceniza</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_4" type="DefaultLine" subtype="none" points="1039,574 1037,591 1662,599 1666,578 1664,545 1039,537 1039,574 " source="Varios_178_3/1037.0,537.0,629.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_4_1" points="1039,574 1666,578 " corresp="DefaultLine"/>
@@ -829,7 +829,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_18" type="DefaultLine" subtype="none" points="1184,1275 1163,1275 1143,1275 1122,1275 1101,1275 1081,1275 1079,1271 1039,1271 1039,1316 1037,1335 1515,1339 1519,1320 1519,1283 1198,1275 1184,1275 " source="Varios_178_3/1037.0,1271.0,482.0,68.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_18_1" points="1039,1316 1519,1320 " corresp="DefaultLine"/>
-          <line>Fueron sintiéndose luego,</line>
+          <line>Fueron sintiéndose luego,</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_19" type="DefaultLine" subtype="none" points="1043,1361 1043,1378 1176,1378 1184,1380 1217,1395 1219,1395 1221,1395 1223,1395 1225,1395 1240,1382 1244,1380 1246,1382 1256,1390 1258,1390 1261,1390 1263,1390 1296,1384 1323,1378 1354,1384 1380,1390 1382,1390 1521,1388 1521,1361 1521,1326 1043,1326 1043,1361 " source="Varios_178_3/1043.0,1326.0,478.0,69.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_19_1" points="1043,1361 1521,1361 " corresp="DefaultLine"/>
@@ -857,7 +857,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_25" type="DefaultLine" subtype="none" points="1428,1634 1426,1634 1424,1634 1422,1634 1405,1645 1327,1634 1325,1634 1217,1645 1184,1634 1182,1634 1180,1634 1095,1645 1060,1634 1058,1634 1056,1634 1054,1634 1052,1634 1039,1643 1039,1680 1039,1696 1461,1705 1463,1680 1463,1645 1430,1634 1428,1634 " source="Varios_178_3/1039.0,1634.0,424.0,71.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_25_1" points="1039,1680 1463,1680 " corresp="DefaultLine"/>
-          <line>Cuanto á su paso caia.</line>
+          <line>Cuanto á su paso caia.</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_26" type="DefaultLine" subtype="none" points="1292,1762 1292,1777 1366,1775 1366,1758 1362,1711 1327,1700 1325,1700 1323,1700 1320,1700 1287,1715 1292,1762 " source="Varios_178_3/1287.0,1700.0,79.0,77.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_26_1" points="1292,1762 1366,1758 " corresp="DefaultLine"/>
@@ -865,7 +865,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_27" type="DefaultLine" subtype="none" points="1366,1758 1360,1758 1354,1767 1308,1767 1283,1756 1281,1756 1279,1756 1277,1756 1273,1756 1242,1762 1229,1756 1207,1744 1205,1744 1203,1744 1201,1744 1174,1756 1155,1764 1077,1756 1077,1804 1074,1820 1089,1829 1091,1829 1093,1829 1095,1829 1256,1820 1298,1831 1300,1831 1302,1831 1523,1820 1525,1808 1523,1758 1461,1746 1459,1746 1457,1746 1434,1756 1416,1767 1401,1756 1387,1746 1385,1746 1382,1746 1380,1746 1378,1746 1376,1746 1366,1752 1366,1758 " source="Varios_178_3/1074.0,1744.0,451.0,87.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_27_1" points="1077,1804 1525,1808 " corresp="DefaultLine"/>
-          <line>La gente salió á la calle</line>
+          <line>La gente salió á la calle</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_28" type="DefaultLine" subtype="none" points="1039,1849 1039,1866 1498,1870 1500,1849 1500,1820 1221,1808 1219,1808 1203,1810 1161,1818 1149,1808 1147,1808 1145,1808 1143,1808 1139,1808 1097,1816 1039,1806 1039,1849 " source="Varios_178_3/1039.0,1806.0,461.0,64.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_28_1" points="1039,1849 1500,1849 " corresp="DefaultLine"/>
@@ -873,7 +873,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_29" type="DefaultLine" subtype="none" points="1141,1851 1136,1851 1085,1860 1052,1851 1043,1851 1043,1895 1041,1907 1569,1922 1573,1899 1571,1864 1143,1851 1141,1851 " source="Varios_178_3/1041.0,1851.0,532.0,71.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_29_1" points="1043,1895 1573,1899 " corresp="DefaultLine"/>
-          <line>Y allí ya no encuentra nadie</line>
+          <line>Y allí ya no encuentra nadie</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_30" type="DefaultLine" subtype="none" points="1039,1942 1039,1959 1502,1963 1504,1938 1500,1907 1050,1899 1048,1899 1046,1899 1043,1899 1043,1901 1037,1905 1039,1942 " source="Varios_178_3/1037.0,1899.0,467.0,64.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_30_1" points="1039,1942 1504,1938 " corresp="DefaultLine"/>
@@ -885,7 +885,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_32" type="DefaultLine" subtype="none" points="1077,2062 1074,2077 1461,2087 1465,2066 1465,2023 1451,2015 1449,2015 1447,2015 1444,2015 1442,2015 1440,2015 1428,2025 1409,2015 1407,2015 1405,2015 1356,2025 1211,2025 1211,2023 1196,2012 1194,2012 1192,2012 1190,2012 1077,2021 1077,2062 " source="Varios_178_3/1074.0,2012.0,391.0,75.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_32_1" points="1077,2062 1465,2066 " corresp="DefaultLine"/>
-          <line>Un jóven telegrafista</line>
+          <line>Un jóven telegrafista</line>
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_33" type="DefaultLine" subtype="none" points="1037,2112 1037,2124 1463,2126 1465,2112 1465,2079 1037,2079 1037,2112 " source="Varios_178_3/1037.0,2079.0,428.0,47.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_33_1" points="1037,2112 1465,2112 " corresp="DefaultLine"/>
@@ -897,7 +897,7 @@
         </zone>
         <zone xml:id="Varios_178_3_BT227_3_LT182_35" type="DefaultLine" subtype="none" points="1037,2205 1037,2258 1089,2258 1097,2263 1130,2281 1132,2281 1134,2281 1136,2281 1139,2281 1159,2269 1248,2285 1250,2285 1252,2285 1285,2271 1298,2267 1310,2273 1341,2287 1343,2287 1345,2287 1463,2279 1463,2201 1457,2161 1095,2170 1043,2159 1041,2159 1039,2159 1037,2159 1037,2161 1035,2161 1037,2205 " source="Varios_178_3/1035.0,2159.0,428.0,128.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_3_BT227_3_LT182_35_1" points="1037,2205 1463,2201 " corresp="DefaultLine"/>
-          <line>Ha contado lo que vió.</line>
+          <line>Ha contado lo que vió.</line>
         </zone>
       </zone>
     </surface>
@@ -918,11 +918,11 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_4" type="DefaultLine" subtype="none" points="280,352 278,365 335,383 337,383 339,383 342,383 344,383 344,381 355,372 394,383 397,383 399,383 401,383 423,376 432,374 741,396 745,370 745,330 280,317 280,352 " source="Varios_178_4/278.0,317.0,467.0,79.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_4_1" points="280,352 745,370 " corresp="DefaultLine"/>
-          <line>Cayó una lluvia de fuego</line>
+          <line>Cayó una lluvia de fuego</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_5" type="DefaultLine" subtype="none" points="282,403 280,422 366,427 381,442 383,442 386,442 388,442 390,442 416,429 423,427 434,429 478,442 480,442 482,442 535,433 552,431 574,435 640,451 642,451 710,440 712,416 712,376 282,354 282,403 " source="Varios_178_4/280.0,354.0,432.0,97.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_5_1" points="282,403 712,416 " corresp="DefaultLine"/>
-          <line>Y abandoné mi trabajo.</line>
+          <line>Y abandoné mi trabajo.</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_6" type="DefaultLine" subtype="none" points="530,488 530,508 605,503 605,488 605,440 561,416 559,416 557,416 554,416 530,418 530,488 " source="Varios_178_4/530.0,416.0,75.0,92.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_6_1" points="530,488 605,488 " corresp="DefaultLine"/>
@@ -934,7 +934,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_8" type="DefaultLine" subtype="none" points="383,527 379,525 348,525 339,525 318,525 315,523 274,521 274,567 271,578 682,600 686,580 684,545 386,527 383,527 " source="Varios_178_4/271.0,521.0,415.0,79.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_8_1" points="274,567 686,580 " corresp="DefaultLine"/>
-          <line>Y mientras allí estaba</line>
+          <line>Y mientras allí estaba</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_9" type="DefaultLine" subtype="none" points="383,571 361,571 339,569 318,569 296,569 274,569 274,611 271,624 794,648 798,626 796,580 651,587 386,571 383,571 " source="Varios_178_4/271.0,569.0,527.0,79.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_9_1" points="274,611 798,626 " corresp="DefaultLine"/>
@@ -954,7 +954,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_13" type="DefaultLine" subtype="none" points="263,823 261,834 706,858 710,841 710,801 263,782 263,823 " source="Varios_178_4/261.0,782.0,449.0,76.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_13_1" points="263,823 710,841 " corresp="DefaultLine"/>
-          <line>Torciéndose á su placer,</line>
+          <line>Torciéndose á su placer,</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_14" type="DefaultLine" subtype="none" points="263,869 261,882 758,907 763,885 763,845 263,825 263,869 " source="Varios_178_4/261.0,825.0,502.0,82.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_14_1" points="263,869 763,885 " corresp="DefaultLine"/>
@@ -962,7 +962,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_15" type="DefaultLine" subtype="none" points="745,885 723,885 701,885 686,882 493,885 320,871 307,871 285,871 263,871 263,915 261,961 267,968 267,970 269,970 271,970 274,970 276,970 311,961 333,981 335,981 337,981 339,981 342,981 370,970 397,981 399,981 401,981 403,981 432,970 443,981 443,983 445,983 447,983 449,983 557,970 572,985 572,988 574,988 576,988 579,990 721,990 721,988 723,988 726,988 726,985 739,974 791,974 794,931 789,882 745,882 745,885 " source="Varios_178_4/261.0,871.0,533.0,119.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_15_1" points="263,915 794,931 " corresp="DefaultLine"/>
-          <line>No está la ciudad de Auger.»</line>
+          <line>No está la ciudad de Auger.»</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_16" type="DefaultLine" subtype="none" points="508,1016 506,1029 579,1047 583,1020 583,970 511,957 508,1016 " source="Varios_178_4/506.0,957.0,77.0,90.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_16_1" points="508,1016 583,1020 " corresp="DefaultLine"/>
@@ -998,7 +998,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_24" type="DefaultLine" subtype="none" points="432,1371 423,1369 397,1369 388,1369 366,1369 344,1367 322,1367 300,1367 278,1364 256,1364 234,1364 234,1406 232,1421 679,1443 684,1421 684,1384 438,1371 432,1371 " source="Varios_178_4/232.0,1364.0,452.0,79.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_24_1" points="234,1406 684,1421 " corresp="DefaultLine"/>
-          <line>La sepultó la mar brava</line>
+          <line>La sepultó la mar brava</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_25" type="DefaultLine" subtype="none" points="300,1410 282,1408 274,1408 256,1408 234,1408 234,1452 232,1496 375,1507 377,1507 379,1507 388,1502 418,1487 447,1505 449,1505 451,1505 454,1505 460,1505 590,1494 666,1511 671,1467 671,1430 313,1410 300,1410 " source="Varios_178_4/232.0,1408.0,439.0,103.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_25_1" points="234,1452 671,1467 " corresp="DefaultLine"/>
@@ -1022,7 +1022,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_30" type="DefaultLine" subtype="none" points="339,1684 318,1684 296,1682 274,1682 252,1682 230,1682 230,1724 228,1754 254,1768 256,1768 258,1768 350,1757 383,1754 392,1759 421,1774 423,1774 425,1774 543,1765 609,1761 677,1770 682,1739 679,1702 350,1684 339,1684 " source="Varios_178_4/228.0,1682.0,454.0,92.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_30_1" points="230,1724 682,1739 " corresp="DefaultLine"/>
-          <line>Y el trueno del huracán.</line>
+          <line>Y el trueno del huracán.</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_1_LT182_31" type="DefaultLine" subtype="none" points="475,1811 473,1822 546,1833 550,1816 550,1768 478,1761 475,1811 " source="Varios_178_4/473.0,1761.0,77.0,72.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_1_LT182_31_1" points="475,1811 550,1816 " corresp="DefaultLine"/>
@@ -1084,7 +1084,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_10" type="DefaultLine" subtype="none" points="1094,694 1092,722 1147,744 1149,744 1151,744 1153,744 1186,731 1201,744 1201,747 1204,747 1206,747 1208,747 1210,747 1228,738 1261,749 1263,749 1265,749 1324,742 1373,736 1541,758 1546,712 1544,670 1094,659 1094,694 " source="Varios_178_4/1092.0,659.0,454.0,99.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_10_1" points="1094,694 1546,712 " corresp="DefaultLine"/>
-          <line>Se sepultó en el océano!</line>
+          <line>Se sepultó en el océano!</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_11" type="DefaultLine" subtype="none" points="1337,782 1335,793 1408,799 1412,786 1414,733 1340,725 1337,782 " source="Varios_178_4/1335.0,725.0,79.0,74.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_11_1" points="1337,782 1412,786 " corresp="DefaultLine"/>
@@ -1092,7 +1092,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_12" type="DefaultLine" subtype="none" points="1348,782 1131,766 1131,819 1129,834 1546,856 1550,836 1548,782 1449,790 1362,784 1351,784 " source="Varios_178_4/1129.0,766.0,421.0,90.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_12_1" points="1131,819 1558,841 " corresp="DefaultLine"/>
-          <line>Ni uno solo salvo está:</line>
+          <line>Ni uno solo salvo está:</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_13" type="DefaultLine" subtype="none" points="1085,865 1083,874 1219,880 1230,891 1230,893 1232,893 1234,893 1237,893 1353,889 1364,898 1364,900 1366,900 1368,900 1370,900 1430,889 1441,902 1443,902 1443,904 1445,904 1447,904 1535,907 1537,907 1539,907 1541,907 1557,893 1559,882 1559,847 1085,819 1085,865 " source="Varios_178_4/1083.0,819.0,476.0,88.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_13_1" points="1085,865 1559,882 " corresp="DefaultLine"/>
@@ -1100,7 +1100,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_14" type="DefaultLine" subtype="none" points="1436,878 1416,878 1397,882 1241,871 1239,871 1217,871 1195,869 1173,869 1151,869 1129,867 1107,867 1085,867 1085,907 1083,922 1436,939 1441,922 1436,878 1436,878 " source="Varios_178_4/1083.0,867.0,358.0,72.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_14_1" points="1085,907 1441,922 " corresp="DefaultLine"/>
-          <line>En Krakatoa podrá</line>
+          <line>En Krakatoa podrá</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_15" type="DefaultLine" subtype="none" points="1083,953 1081,981 1201,985 1201,988 1212,1001 1215,1001 1215,1003 1217,1003 1219,1003 1221,1003 1520,1001 1522,968 1522,928 1083,911 1083,953 " source="Varios_178_4/1081.0,911.0,441.0,92.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_15_1" points="1083,953 1522,968 " corresp="DefaultLine"/>
@@ -1112,11 +1112,11 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_17" type="DefaultLine" subtype="none" points="1381,1051 1359,1051 1351,1051 1337,1051 1335,1045 1316,1038 1313,1038 1311,1038 1283,1042 1261,1047 1252,1040 1245,1036 1243,1036 1241,1036 1074,1031 1074,1084 1072,1097 1585,1126 1590,1104 1590,1060 1544,1047 1541,1047 1539,1047 1405,1051 1403,1051 1381,1051 " source="Varios_178_4/1072.0,1031.0,518.0,95.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_17_1" points="1074,1084 1590,1104 " corresp="DefaultLine"/>
-          <line>Señor Dios de las Bondades,</line>
+          <line>Señor Dios de las Bondades,</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_18" type="DefaultLine" subtype="none" points="1186,1088 1142,1097 1087,1086 1076,1086 1076,1130 1074,1143 1579,1165 1583,1147 1583,1112 1230,1101 1208,1091 1186,1088 " source="Varios_178_4/1074.0,1086.0,509.0,79.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_18_1" points="1076,1130 1583,1147 " corresp="DefaultLine"/>
-          <line>Tu, Señor Rey de los cielos.</line>
+          <line>Tu, Señor Rey de los cielos.</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_19" type="DefaultLine" subtype="none" points="1557,1147 1535,1147 1316,1147 1153,1134 1140,1134 1118,1132 1096,1132 1074,1130 1074,1174 1072,1191 1601,1220 1605,1194 1603,1147 1579,1147 1557,1147 " source="Varios_178_4/1072.0,1130.0,533.0,90.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_19_1" points="1074,1174 1605,1194 " corresp="DefaultLine"/>
@@ -1132,7 +1132,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_22" type="DefaultLine" subtype="none" points="1390,1323 1368,1323 1346,1323 1324,1323 1322,1321 1291,1321 1285,1316 1254,1301 1252,1301 1250,1301 1186,1310 1171,1296 1169,1296 1166,1296 1164,1296 1105,1310 1105,1353 1103,1371 1598,1397 1603,1371 1598,1325 1552,1327 1530,1323 1478,1307 1476,1307 1473,1307 1471,1307 1438,1321 1432,1323 1425,1318 1401,1307 1399,1307 1397,1307 1394,1307 1392,1307 1390,1323 " source="Varios_178_4/1103.0,1296.0,500.0,101.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_22_1" points="1105,1353 1603,1371 " corresp="DefaultLine"/>
-          <line>Si nuestras lágrimas puras</line>
+          <line>Si nuestras lágrimas puras</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_23" type="DefaultLine" subtype="none" points="1065,1399 1063,1413 1511,1437 1515,1413 1513,1382 1065,1356 1065,1399 " source="Varios_178_4/1063.0,1356.0,452.0,81.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_23_1" points="1065,1399 1515,1413 " corresp="DefaultLine"/>
@@ -1160,7 +1160,7 @@
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_29" type="DefaultLine" subtype="none" points="1048,1704 1046,1717 1480,1735 1484,1717 1482,1680 1048,1665 1048,1704 " source="Varios_178_4/1046.0,1665.0,438.0,70.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_29_1" points="1048,1704 1484,1717 " corresp="DefaultLine"/>
-          <line>Como halagüeña presea</line>
+          <line>Como halagüeña presea</line>
         </zone>
         <zone xml:id="Varios_178_4_BT227_2_LT182_30" type="DefaultLine" subtype="none" points="1201,1711 1197,1708 1164,1708 1158,1708 1136,1708 1114,1706 1092,1706 1070,1706 1048,1706 1048,1750 1046,1770 1107,1772 1109,1776 1123,1787 1125,1787 1127,1787 1129,1787 1131,1787 1153,1778 1158,1776 1160,1778 1173,1789 1175,1789 1177,1789 1434,1796 1438,1763 1438,1724 1204,1711 1201,1711 " source="Varios_178_4/1046.0,1706.0,392.0,90.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_178_4_BT227_2_LT182_30_1" points="1048,1750 1438,1763 " corresp="DefaultLine"/>
@@ -1211,18 +1211,18 @@
         <head type="primer_titulo">
           <lb/>HORRIBLE CATÁSTROFE</head>
         <head type="subtitulo">
-          <lb/>que el dia 27 de Agosto del año de gracia 1883
-            sumergió en el mar<lb/>de la Sonda la isla de KRAKATOA con las ciudades de
+          <lb/>que el dia 27 de Agosto del año de gracia 1883
+            sumergió en el mar<lb/>de la Sonda la isla de KRAKATOA con las ciudades de
             AUGER,<lb/>TJERINGEN, TELOGBETONG, parte de las costas de las islas<lb/>de SUMATRA y
-            JAVA, pérdida de los buques SIAK,<lb/>VILHELMINA y otros muchos, y causando
-            una<lb/>mortandad de mas de 30.000 víctimas!!!!</head>
+            JAVA, pérdida de los buques SIAK,<lb/>VILHELMINA y otros muchos, y causando
+            una<lb/>mortandad de mas de 30.000 víctimas!!!!</head>
         <div type="parte" n="1">
           <lg>
             <head type="titulo_estrofa">1.</head>
-            <l rend="indent">¿Cómo hablar de terremotos</l>
+            <l rend="indent">¿Cómo hablar de terremotos</l>
             <l>Con que el Santo Dios castiga</l>
             <l>A los de climas remotos,</l>
-            <l>Sin llorar lágrima viva?</l>
+            <l>Sin llorar lágrima viva?</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">2.</head>
@@ -1233,9 +1233,9 @@
           </lg>
           <lg>
             <head type="titulo_estrofa">3.</head>
-            <l rend="indent">Mas allá de Filipínas</l>
+            <l rend="indent">Mas allá de Filipínas</l>
             <l>En medio de la mar brava</l>
-            <l>Están, entre otras islas,</l>
+            <l>Están, entre otras islas,</l>
             <l>Las de <name>Sumatra</name> y de <name>Java</name>.</l>
           </lg>
           <lg>
@@ -1260,7 +1260,7 @@
             <l rend="indent">Y cuando las poseyeron,</l>
             <l>Mas aplacada su rabia,</l>
             <l>La gran ciudad de <name>Batavia</name></l>
-            <l>Allí en <name>Java</name> construyeron.</l>
+            <l>Allí en <name>Java</name> construyeron.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">7.</head>
@@ -1274,7 +1274,7 @@
             <l rend="indent"><name>Tgeringen</name>, <name>Tolokbeton</name></l>
             <l>Y <name>Auger</name>, pueblos de entorno,</l>
             <l>Le sirven como de adorno,</l>
-            <l>Formándole un cinturon.</l>
+            <l>Formándole un cinturon.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">9.</head>
@@ -1287,19 +1287,19 @@
             <head type="titulo_estrofa">10.</head>
             <l rend="indent">La cruzan por todas partes</l>
             <l>Telegrafos y caminos</l>
-            <l>Para esplotar á los chinos</l>
+            <l>Para esplotar á los chinos</l>
             <l>Los productos de sus artes.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">11.</head>
             <l rend="indent">Y los buques europeos</l>
             <l>Acuden con muchas ansias</l>
-            <l>A sus bahías y puertos</l>
+            <l>A sus bahías y puertos</l>
             <l>Para hacer buenas ganancias.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">12.</head>
-            <l rend="indent">Y no muy lejos están</l>
+            <l rend="indent">Y no muy lejos están</l>
             <l>Las islas de <name>Krakatoa</name></l>
             <l>Como una serpiente boa</l>
             <l>Que asecha con su volcan.</l>
@@ -1308,43 +1308,43 @@
             <head type="titulo_estrofa">13.</head>
             <l rend="indent">Sus habitantes gozaban</l>
             <l>Climas de dulce calor</l>
-            <l>Pero la fe del Señor</l>
+            <l>Pero la fe del Señor</l>
             <l>¡Desdichados! no guardaban.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">14.</head>
             <l rend="indent">¡Desdichada <name>Krakatoa</name>!</l>
-            <l>El Señor que está en los cielos</l>
-            <l>Te sumergió en hondos duelos</l>
-            <l>Diciendo:—Llegó tu hora.</l>
+            <l>El Señor que está en los cielos</l>
+            <l>Te sumergió en hondos duelos</l>
+            <l>Diciendo:—Llegó tu hora.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">15.</head>
             <l rend="indent">Y tus bosques y ciudades</l>
-            <l>Y tus árboles gigantes</l>
+            <l>Y tus árboles gigantes</l>
             <l>Que perecen arrogantes;</l>
             <l>Sufren ya calamidades.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">16.</head>
-            <l rend="indent">Todo á merced de las olas</l>
-            <l>con espanto terrorífico</l>
-            <l>en el océano Pacífico</l>
-            <l>cayó destrozado á solas.</l>
+            <l rend="indent">Todo á merced de las olas</l>
+            <l>con espanto terrorífico</l>
+            <l>en el océano Pacífico</l>
+            <l>cayó destrozado á solas.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">17.</head>
             <l rend="indent">Y nadie puede encontrar</l>
             <l>Aunque busque con fe loca</l>
             <l>Un palmo de <name>Krakatoa</name></l>
-            <l>Que no esté dentro del mar.</l>
+            <l>Que no esté dentro del mar.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">18.</head>
             <l rend="indent">Y si quereis inquirir</l>
-            <l>Como sucedió el percance,</l>
+            <l>Como sucedió el percance,</l>
             <l>Leed la Segunda Parte</l>
-            <l>Que yo os lo voy á decir.</l>
+            <l>Que yo os lo voy á decir.</l>
           </lg>
           <trailer rend="negrita">
             <lb/>Fin de la primera parte.</trailer>
@@ -1359,7 +1359,7 @@
             <head type="titulo_estrofa">1.</head>
             <l rend="indent">Nubes muy negras muy negras</l>
             <l>Cubrieron algunos dias</l>
-            <l>El cielo y sus cercanías,</l>
+            <l>El cielo y sus cercanías,</l>
             <l>Y eran de fuego las piedras.</l>
           </lg>
           <lg>
@@ -1368,11 +1368,11 @@
             </l>
             <l>A quien los mares no asustan</l>
             <l>Dijo—Chicos, no me gustan</l>
-            <l>Aquellas señas que veo.</l>
+            <l>Aquellas señas que veo.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">3.</head>
-            <l rend="indent">Diciendo así señalaba</l>
+            <l rend="indent">Diciendo así señalaba</l>
             <l>El sol poniente en ocaso,</l>
             <l>Pero no le hizo caso</l>
             <l>Ninguno del que mandaba.</l>
@@ -1380,8 +1380,8 @@
           <lg>
             <head type="titulo_estrofa">4.</head>
             <l rend="indent">Y cuando un cubo de agua</l>
-            <l>Fué un marinero á sacar</l>
-            <l>Vió que estaba ardiendo el mar</l>
+            <l>Fué un marinero á sacar</l>
+            <l>Vió que estaba ardiendo el mar</l>
             <l>Y que el cubo se encallaba.</l>
           </lg>
           <lg>
@@ -1393,7 +1393,7 @@
           </lg>
           <lg>
             <head type="titulo_estrofa">6.</head>
-            <l rend="indent">La tierra empezó á moverse</l>
+            <l rend="indent">La tierra empezó á moverse</l>
             <l>Con un terremoto sordo,</l>
             <l>Y ya la gente de abordo</l>
             <l>No se podia tenerse.</l>
@@ -1402,14 +1402,14 @@
             <head type="titulo_estrofa">7.</head>
             <l rend="indent">El buque de guerra <hi rend="cursiva">Siak</hi>
             </l>
-            <l>Reforzó bien las amarras,</l>
+            <l>Reforzó bien las amarras,</l>
             <l>Pues los hombres se guarecen</l>
             <l>Cuando los cielos batallan.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">8.</head>
             <l rend="indent">Luego sin saber de donde</l>
-            <l>Cayó como una ceniza</l>
+            <l>Cayó como una ceniza</l>
             <l>Que en muy poco tiempo esconde</l>
             <l>Lo que alcanzaba la vista.</l>
           </lg>
@@ -1430,7 +1430,7 @@
           <lg>
             <head type="titulo_estrofa">11.</head>
             <l rend="indent">Mas fuertes sacudimientos</l>
-            <l>Fueron sintiéndose luego,</l>
+            <l>Fueron sintiéndose luego,</l>
             <l>Y la lluvia por momentos</l>
             <l>Abrasaba como fuego.</l>
           </lg>
@@ -1439,21 +1439,21 @@
             <l rend="indent">Angel esterminador</l>
             <l>Parecia que venia,</l>
             <l>Y arrastraba con furor</l>
-            <l>Cuanto á su paso caia.</l>
+            <l>Cuanto á su paso caia.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">13.</head>
-            <l rend="indent">La gente salió á la calle</l>
+            <l rend="indent">La gente salió á la calle</l>
             <l>Dando gritos espantosos,</l>
-            <l>Y allí ya no encuentra nadie</l>
+            <l>Y allí ya no encuentra nadie</l>
             <l>Sus hijos ni sus esposos.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">14.</head>
-            <l rend="indent">Un jóven telegrafista</l>
+            <l rend="indent">Un jóven telegrafista</l>
             <l>Que hacia composicion</l>
             <l>De los hilos del telegrafo</l>
-            <l>Ha contado lo que vió.</l>
+            <l>Ha contado lo que vió.</l>
           </lg>
 
           <pb n="4" source="Varios_178_4.jpg" facs="varios/Varios_178_4.jpg"/>
@@ -1462,22 +1462,22 @@
             <head type="titulo_estrofa">15.</head>
             <l rend="indent">«Era el dia veinte y siete,</l>
             <l>Mientras estaba en el campo</l>
-            <l>Cayó una lluvia de fuego</l>
-            <l>Y abandoné mi trabajo.</l>
+            <l>Cayó una lluvia de fuego</l>
+            <l>Y abandoné mi trabajo.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">16.</head>
             <l rend="indent">Me guareci en una cueva</l>
-            <l>Y mientras allí estaba</l>
+            <l>Y mientras allí estaba</l>
             <l>Vi una ola inmensa y nueva,</l>
             <l>Y al verla he perdido el habla.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">17.</head>
             <l rend="indent">Vi que entraba tierra adentro</l>
-            <l>Torciéndose á su placer,</l>
+            <l>Torciéndose á su placer,</l>
             <l>Y creo que ya en su centro</l>
-            <l>No está la ciudad de <name>Auger</name>.»</l>
+            <l>No está la ciudad de <name>Auger</name>.»</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">18.</head>
@@ -1490,7 +1490,7 @@
             <head type="titulo_estrofa">19.</head>
             <l rend="indent">Y vieron que buena parte</l>
             <l>De aquella isla de <name>Java</name></l>
-            <l>La sepultó la mar brava</l>
+            <l>La sepultó la mar brava</l>
             <l>Con espantoso desastre.</l>
           </lg>
           <lg>
@@ -1498,7 +1498,7 @@
             <l rend="indent">Todos los Faros de <name>Sonda</name></l>
             <l>Los ha sepultado el mar</l>
             <l>Entre la espumosa onda</l>
-            <l>Y el trueno del huracán.</l>
+            <l>Y el trueno del huracán.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">21.</head>
@@ -1519,25 +1519,25 @@
             <l rend="indent">¡Oh infortunio soberano!</l>
             <l>¡Oh fiera calamidad!</l>
             <l>¡Y cuanta y cuanta ciudad</l>
-            <l>Se sepultó en el océano!</l>
+            <l>Se sepultó en el océano!</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">24.</head>
-            <l rend="indent">Ni uno solo salvo está:</l>
+            <l rend="indent">Ni uno solo salvo está:</l>
             <l>Ni uno de los que vivian</l>
-            <l>En <name>Krakatoa</name> podrá</l>
+            <l>En <name>Krakatoa</name> podrá</l>
             <l>Decirnos lo que ocurria.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">25.</head>
-            <l rend="indent">Señor Dios de las Bondades,</l>
-            <l>Tu, Señor Rey de los cielos.</l>
+            <l rend="indent">Señor Dios de las Bondades,</l>
+            <l>Tu, Señor Rey de los cielos.</l>
             <l>Que conoces nuestros duelos</l>
             <l>¡Ya no mas calamidades!</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">26.</head>
-            <l rend="indent">Si nuestras lágrimas puras</l>
+            <l rend="indent">Si nuestras lágrimas puras</l>
             <l>Pueden alcanzar perdon</l>
             <l>Para esas pobres criaturas</l>
             <l>Que no esperan salvacion.</l>
@@ -1546,7 +1546,7 @@
             <head type="titulo_estrofa">27.</head>
             <l rend="indent">Toma del fondo del alma</l>
             <l>Lo que mas grato te sea</l>
-            <l>Como halagüeña presea</l>
+            <l>Como halagüeña presea</l>
             <l>De la descada calma.</l>
           </lg>
           <lg>

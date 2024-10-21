@@ -185,11 +185,11 @@
         </zone>
         <zone xml:id="Varios_267_1_BT227_2_LT83_2" type="DefaultLine" subtype="none" points="70,1855 67,1870 394,1877 399,1860 397,1827 70,1822 70,1855 " source="Varios_267_1/67.0,1822.0,332.0,55.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_1_BT227_2_LT83_2_1" points="70,1855 399,1860 " corresp="DefaultLine"/>
-          <line>Escuchen señores</line>
+          <line>Escuchen señores</line>
         </zone>
         <zone xml:id="Varios_267_1_BT227_2_LT83_3" type="DefaultLine" subtype="none" points="30,1897 30,1914 339,1921 342,1897 342,1866 30,1857 30,1897 " source="Varios_267_1/30.0,1857.0,312.0,64.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_1_BT227_2_LT83_3_1" points="30,1897 342,1897 " corresp="DefaultLine"/>
-          <line>que voy á cantar</line>
+          <line>que voy á cantar</line>
         </zone>
         <zone xml:id="Varios_267_1_BT227_2_LT83_4" type="DefaultLine" subtype="none" points="32,1938 32,1958 381,1962 383,1938 383,1908 32,1901 32,1938 " source="Varios_267_1/32.0,1901.0,351.0,61.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_1_BT227_2_LT83_4_1" points="32,1938 383,1938 " corresp="DefaultLine"/>
@@ -229,7 +229,7 @@
         </zone>
         <zone xml:id="Varios_267_1_BT227_2_LT83_13" type="DefaultLine" subtype="none" points="186,2260 164,2260 142,2260 120,2260 103,2260 32,2271 35,2304 35,2328 370,2342 372,2295 368,2265 201,2260 186,2260 " source="Varios_267_1/32.0,2260.0,340.0,82.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_1_BT227_2_LT83_13_1" points="35,2304 372,2295 " corresp="DefaultLine"/>
-          <line>y el que nó, ayuna</line>
+          <line>y el que nó, ayuna</line>
         </zone>
       </zone>
       <zone xml:id="Varios_267_1_BT227_3" n="3" type="MainZone" subtype="columns" points="1445,2267 1357,2328 973,2328 965,1840 1210,1787 1401,1849 1401,2127 " source="Varios_267_1/965.0,1787.0,480.0,541.0/full/0/default" corresp="MainZone:columns">
@@ -325,7 +325,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_1_LT83_9" type="DefaultLine" subtype="none" points="171,524 171,541 545,541 547,522 541,491 169,491 171,524 " source="Varios_267_2/169.0,491.0,378.0,50.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_1_LT83_9_1" points="171,524 547,522 " corresp="DefaultLine"/>
-          <line>tode está mal dicho.</line>
+          <line>tode está mal dicho.</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_1_LT83_10" type="DefaultLine" subtype="none" points="214,562 212,574 568,586 572,566 568,527 214,529 214,562 " source="Varios_267_2/212.0,527.0,360.0,59.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_1_LT83_10_1" points="214,562 572,566 " corresp="DefaultLine"/>
@@ -413,7 +413,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_1_LT83_31" type="DefaultLine" subtype="none" points="494,1359 483,1359 163,1370 165,1403 165,1417 545,1417 545,1395 539,1357 494,1357 494,1359 " source="Varios_267_2/163.0,1357.0,382.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_1_LT83_31_1" points="165,1403 545,1395 " corresp="DefaultLine"/>
-          <line>¿donde irá á chupar?</line>
+          <line>¿donde irá á chupar?</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_1_LT83_32" type="DefaultLine" subtype="none" points="200,1440 200,1452 279,1454 279,1457 289,1465 289,1467 291,1467 293,1467 295,1467 297,1467 324,1459 336,1454 570,1467 572,1440 572,1409 200,1403 200,1440 " source="Varios_267_2/200.0,1403.0,372.0,64.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_1_LT83_32_1" points="200,1440 572,1440 " corresp="DefaultLine"/>
@@ -421,7 +421,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_1_LT83_33" type="DefaultLine" subtype="none" points="250,1442 229,1442 208,1442 206,1440 167,1440 167,1477 165,1494 469,1492 471,1481 469,1446 266,1442 250,1442 " source="Varios_267_2/165.0,1440.0,306.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_1_LT83_33_1" points="167,1477 471,1481 " corresp="DefaultLine"/>
-          <line>¿dónde va señor!</line>
+          <line>¿dónde va señor!</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_1_LT83_34" type="DefaultLine" subtype="none" points="167,1514 165,1531 675,1543 680,1521 678,1483 167,1483 167,1514 " source="Varios_267_2/165.0,1483.0,515.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_1_LT83_34_1" points="167,1514 680,1521 " corresp="DefaultLine"/>
@@ -445,7 +445,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_1_LT83_39" type="DefaultLine" subtype="none" points="165,1719 165,1738 479,1738 479,1715 473,1684 163,1686 165,1719 " source="Varios_267_2/163.0,1684.0,316.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_1_LT83_39_1" points="165,1719 479,1715 " corresp="DefaultLine"/>
-          <line>está mal mirado.</line>
+          <line>está mal mirado.</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_1_LT83_40" type="DefaultLine" subtype="none" points="409,1758 409,1771 442,1773 444,1756 440,1719 405,1719 409,1758 " source="Varios_267_2/405.0,1719.0,39.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_1_LT83_40_1" points="410,1759 446,1758 " corresp="DefaultLine"/>
@@ -511,7 +511,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_5" type="DefaultLine" subtype="none" points="1118,372 1118,384 1405,390 1409,367 1403,336 1116,338 1118,372 " source="Varios_267_2/1116.0,336.0,293.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_5_1" points="1118,372 1409,367 " corresp="DefaultLine"/>
-          <line>yo citaré quien:</line>
+          <line>yo citaré quien:</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_6" type="DefaultLine" subtype="none" points="1302,369 1281,369 1261,372 1240,372 1219,372 1198,372 1178,372 1157,372 1136,372 1116,372 1116,409 1114,427 1341,427 1391,440 1393,440 1395,440 1498,425 1500,413 1498,374 1306,369 1302,369 " source="Varios_267_2/1114.0,369.0,386.0,71.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_6_1" points="1116,409 1500,413 " corresp="DefaultLine"/>
@@ -523,7 +523,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_8" type="DefaultLine" subtype="none" points="1155,487 1153,502 1488,512 1492,493 1492,460 1155,454 1155,487 " source="Varios_267_2/1153.0,454.0,339.0,58.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_8_1" points="1155,487 1492,493 " corresp="DefaultLine"/>
-          <line>Jóven rica y maja</line>
+          <line>Jóven rica y maja</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_9" type="DefaultLine" subtype="none" points="1281,489 1269,487 1248,487 1240,487 1219,487 1198,487 1178,487 1157,487 1153,481 1116,481 1116,527 1114,535 1424,541 1428,533 1428,496 1294,489 1281,489 " source="Varios_267_2/1114.0,481.0,314.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_9_1" points="1118,529 1430,534 " corresp="DefaultLine"/>
@@ -543,7 +543,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_13" type="DefaultLine" subtype="none" points="1219,648 1198,648 1180,648 1155,657 1118,646 1116,688 1116,704 1399,704 1399,688 1399,659 1223,648 1219,648 " source="Varios_267_2/1116.0,646.0,283.0,58.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_13_1" points="1116,688 1399,688 " corresp="DefaultLine"/>
-          <line>lo afirmaré yo:</line>
+          <line>lo afirmaré yo:</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_14" type="DefaultLine" subtype="none" points="1201,690 1180,690 1159,690 1139,690 1118,690 1118,729 1118,752 1496,750 1496,729 1496,696 1211,690 1201,690 " source="Varios_267_2/1118.0,690.0,378.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_14_1" points="1118,729 1496,729 " corresp="DefaultLine"/>
@@ -551,7 +551,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_15" type="DefaultLine" subtype="none" points="1118,772 1118,791 1401,779 1401,766 1395,735 1116,735 1118,772 " source="Varios_267_2/1116.0,735.0,285.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_15_1" points="1118,772 1401,766 " corresp="DefaultLine"/>
-          <line>rica y jóven nó.</line>
+          <line>rica y jóven nó.</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_16" type="DefaultLine" subtype="none" points="1358,822 1397,822 1399,812 1399,779 1362,768 1360,810 1358,822 " source="Varios_267_2/1358.0,768.0,41.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_16_1" points="1361,811 1400,813 " corresp="DefaultLine"/>
@@ -567,11 +567,11 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_19" type="DefaultLine" subtype="none" points="1116,930 1116,942 1413,940 1416,925 1409,892 1114,894 1116,930 " source="Varios_267_2/1114.0,892.0,302.0,50.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_19_1" points="1116,930 1416,925 " corresp="DefaultLine"/>
-          <line>á todos fastidía</line>
+          <line>á todos fastidía</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_20" type="DefaultLine" subtype="none" points="1256,930 1236,930 1215,930 1194,930 1174,930 1153,930 1132,930 1130,927 1112,927 1114,971 1114,985 1527,985 1527,963 1523,930 1269,927 1256,930 " source="Varios_267_2/1112.0,927.0,415.0,58.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_20_1" points="1114,971 1527,963 " corresp="DefaultLine"/>
-          <line>y á nadie hace gozo.</line>
+          <line>y á nadie hace gozo.</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_21" type="DefaultLine" subtype="none" points="1153,1008 1153,1020 1548,1025 1552,1004 1546,975 1151,977 1153,1008 " source="Varios_267_2/1151.0,975.0,401.0,50.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_21_1" points="1153,1008 1552,1004 " corresp="DefaultLine"/>
@@ -579,7 +579,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_22" type="DefaultLine" subtype="none" points="1258,1008 1238,1008 1217,1008 1196,1008 1176,1008 1155,1008 1153,1004 1114,1004 1114,1045 1112,1062 1569,1062 1571,1049 1569,1016 1265,1008 1258,1008 " source="Varios_267_2/1112.0,1004.0,459.0,58.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_22_1" points="1114,1045 1571,1049 " corresp="DefaultLine"/>
-          <line>que donde está sentado,</line>
+          <line>que donde está sentado,</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_23" type="DefaultLine" subtype="none" points="1116,1085 1114,1097 1535,1101 1540,1089 1538,1054 1116,1051 1116,1085 " source="Varios_267_2/1114.0,1051.0,426.0,50.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_23_1" points="1116,1085 1540,1089 " corresp="DefaultLine"/>
@@ -587,7 +587,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_24" type="DefaultLine" subtype="none" points="1112,1128 1112,1140 1513,1134 1513,1122 1509,1091 1110,1089 1112,1128 " source="Varios_267_2/1110.0,1089.0,403.0,51.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_24_1" points="1112,1128 1513,1122 " corresp="DefaultLine"/>
-          <line>nunca está apretado.</line>
+          <line>nunca está apretado.</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_25" type="DefaultLine" subtype="none" points="1153,1167 1153,1182 1535,1182 1538,1163 1533,1134 1151,1128 1153,1167 " source="Varios_267_2/1151.0,1128.0,387.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_25_1" points="1153,1167 1538,1163 " corresp="DefaultLine"/>
@@ -599,7 +599,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_27" type="DefaultLine" subtype="none" points="1486,1206 1465,1206 1444,1206 1424,1206 1403,1206 1382,1206 1362,1206 1360,1204 1114,1209 1114,1242 1112,1254 1486,1260 1490,1248 1486,1206 1486,1206 " source="Varios_267_2/1112.0,1204.0,378.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_27_1" points="1114,1242 1490,1248 " corresp="DefaultLine"/>
-          <line>si se pone á hablar</line>
+          <line>si se pone á hablar</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_28" type="DefaultLine" subtype="none" points="1112,1287 1112,1299 1434,1308 1436,1287 1436,1254 1112,1248 1112,1287 " source="Varios_267_2/1112.0,1248.0,324.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_28_1" points="1112,1287 1436,1287 " corresp="DefaultLine"/>
@@ -611,7 +611,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_30" type="DefaultLine" subtype="none" points="1147,1364 1147,1378 1593,1384 1595,1364 1593,1326 1453,1330 1447,1328 1434,1318 1432,1318 1430,1318 1428,1318 1426,1318 1424,1318 1407,1328 1403,1330 1387,1328 1333,1320 1331,1320 1267,1330 1261,1330 1256,1330 1180,1318 1178,1318 1176,1318 1147,1330 1147,1364 " source="Varios_267_2/1147.0,1318.0,448.0,66.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_30_1" points="1147,1364 1595,1364 " corresp="DefaultLine"/>
-          <line>Si un pobre vá á misa</line>
+          <line>Si un pobre vá á misa</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_31" type="DefaultLine" subtype="none" points="1116,1405 1116,1423 1581,1423 1581,1405 1581,1376 1116,1376 1116,1405 " source="Varios_267_2/1116.0,1376.0,465.0,47.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_31_1" points="1116,1405 1581,1405 " corresp="DefaultLine"/>
@@ -627,7 +627,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_34" type="DefaultLine" subtype="none" points="1149,1525 1149,1539 1519,1535 1521,1521 1515,1488 1147,1488 1149,1525 " source="Varios_267_2/1147.0,1488.0,374.0,51.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_34_1" points="1149,1525 1521,1521 " corresp="DefaultLine"/>
-          <line>Qué dicha tenemos</line>
+          <line>Qué dicha tenemos</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_35" type="DefaultLine" subtype="none" points="1108,1562 1108,1578 1511,1583 1513,1562 1513,1533 1108,1533 1108,1562 " source="Varios_267_2/1108.0,1533.0,405.0,50.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_35_1" points="1108,1562 1513,1562 " corresp="DefaultLine"/>
@@ -663,7 +663,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_43" type="DefaultLine" subtype="none" points="1602,1845 1589,1837 1587,1837 1585,1837 1583,1837 1463,1843 1374,1847 1362,1841 1349,1841 1345,1833 1337,1831 1335,1831 1333,1831 1289,1835 1196,1845 1145,1829 1143,1876 1141,1891 1600,1895 1604,1880 1604,1849 1602,1845 " source="Varios_267_2/1141.0,1829.0,463.0,66.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_43_1" points="1143,1876 1604,1880 " corresp="DefaultLine"/>
-          <line>Si un pobre vá á carne</line>
+          <line>Si un pobre vá á carne</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_44" type="DefaultLine" subtype="none" points="1105,1919 1105,1934 1457,1938 1459,1919 1459,1888 1105,1888 1105,1919 " source="Varios_267_2/1105.0,1888.0,354.0,50.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_44_1" points="1105,1919 1459,1919 " corresp="DefaultLine"/>
@@ -687,7 +687,7 @@
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_49" type="DefaultLine" subtype="none" points="1105,2122 1105,2136 1480,2139 1482,2122 1480,2085 1105,2089 1105,2122 " source="Varios_267_2/1105.0,2085.0,377.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_49_1" points="1105,2122 1482,2122 " corresp="DefaultLine"/>
-          <line>de poca vergüenza;</line>
+          <line>de poca vergüenza;</line>
         </zone>
         <zone xml:id="Varios_267_2_BT227_2_LT83_50" type="DefaultLine" subtype="none" points="1108,2165 1108,2201 1157,2190 1246,2201 1269,2203 1271,2203 1273,2203 1275,2203 1277,2201 1292,2188 1327,2201 1329,2201 1331,2201 1333,2201 1335,2201 1337,2201 1364,2188 1471,2198 1473,2161 1467,2128 1105,2128 1108,2165 " source="Varios_267_2/1105.0,2128.0,368.0,75.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_2_BT227_2_LT83_50_1" points="1108,2165 1473,2161 " corresp="DefaultLine"/>
@@ -724,11 +724,11 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_7" type="DefaultLine" subtype="none" points="392,417 372,417 351,417 330,417 310,417 289,417 268,417 248,417 227,417 219,417 206,417 204,413 165,407 165,450 163,462 539,475 543,456 541,421 417,421 401,417 392,417 " source="Varios_267_3/163.0,407.0,380.0,68.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_7_1" points="165,450 543,456 " corresp="DefaultLine"/>
-          <line>al meson ó posada,</line>
+          <line>al meson ó posada,</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_8" type="DefaultLine" subtype="none" points="169,489 167,502 543,506 547,493 545,460 169,458 169,489 " source="Varios_267_3/167.0,458.0,380.0,48.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_8_1" points="169,489 547,493 " corresp="DefaultLine"/>
-          <line>qué poco gozo hace</line>
+          <line>qué poco gozo hace</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_9" type="DefaultLine" subtype="none" points="169,535 169,545 520,551 525,531 518,500 167,504 169,535 " source="Varios_267_3/167.0,500.0,358.0,51.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_9_1" points="169,535 525,531 " corresp="DefaultLine"/>
@@ -740,19 +740,19 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_11" type="DefaultLine" subtype="none" points="169,609 167,630 549,630 551,613 551,578 169,576 169,609 " source="Varios_267_3/167.0,576.0,384.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_11_1" points="169,609 551,613 " corresp="DefaultLine"/>
-          <line>si va á dejar el ato</line>
+          <line>si va á dejar el ato</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_12" type="DefaultLine" subtype="none" points="171,655 171,673 537,673 537,655 535,620 171,620 171,655 " source="Varios_267_3/171.0,620.0,366.0,53.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_12_1" points="171,655 537,655 " corresp="DefaultLine"/>
-          <line>¿qué busca por ahí</line>
+          <line>¿qué busca por ahí</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_13" type="DefaultLine" subtype="none" points="496,657 475,657 454,657 434,657 413,657 392,657 388,657 165,659 167,692 167,704 504,713 508,690 502,657 496,657 " source="Varios_267_3/165.0,657.0,343.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_13_1" points="167,692 508,690 " corresp="DefaultLine"/>
-          <line>ese uñas de gato?</line>
+          <line>ese uñas de gato?</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_14" type="DefaultLine" subtype="none" points="212,729 210,744 494,746 498,733 496,700 212,694 212,729 " source="Varios_267_3/210.0,694.0,288.0,52.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_14_1" points="212,729 498,733 " corresp="DefaultLine"/>
-          <line>Ni á la cocina</line>
+          <line>Ni á la cocina</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_15" type="DefaultLine" subtype="none" points="169,770 169,783 473,787 475,770 475,739 169,739 169,770 " source="Varios_267_3/169.0,739.0,306.0,48.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_15_1" points="169,770 475,770 " corresp="DefaultLine"/>
@@ -796,7 +796,7 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_25" type="DefaultLine" subtype="none" points="167,1167 167,1180 611,1186 613,1167 613,1138 167,1138 167,1167 " source="Varios_267_3/167.0,1138.0,446.0,48.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_25_1" points="167,1167 613,1167 " corresp="DefaultLine"/>
-          <line>aunque tarde á pagarle</line>
+          <line>aunque tarde á pagarle</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_26" type="DefaultLine" subtype="none" points="291,1169 270,1169 250,1169 229,1169 208,1169 188,1169 167,1169 167,1206 165,1219 618,1225 622,1213 620,1180 295,1169 291,1169 " source="Varios_267_3/165.0,1169.0,457.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_26_1" points="167,1206 622,1213 " corresp="DefaultLine"/>
@@ -812,11 +812,11 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_29" type="DefaultLine" subtype="none" points="165,1326 163,1347 572,1349 576,1330 574,1295 165,1293 165,1326 " source="Varios_267_3/163.0,1293.0,413.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_29_1" points="165,1326 576,1330 " corresp="DefaultLine"/>
-          <line>por crédito que haya</line>
+          <line>por crédito que haya</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_30" type="DefaultLine" subtype="none" points="163,1370 163,1382 308,1395 310,1395 417,1382 417,1366 411,1333 161,1335 163,1370 " source="Varios_267_3/161.0,1333.0,256.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_30_1" points="163,1370 417,1366 " corresp="DefaultLine"/>
-          <line>tarde comerá.</line>
+          <line>tarde comerá.</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_31" type="DefaultLine" subtype="none" points="401,1409 401,1423 456,1421 456,1407 450,1374 398,1374 401,1409 " source="Varios_267_3/398.0,1374.0,58.0,49.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_31_1" points="401,1409 456,1407 " corresp="DefaultLine"/>
@@ -828,7 +828,7 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_33" type="DefaultLine" subtype="none" points="163,1485 161,1494 479,1504 483,1490 483,1457 163,1452 163,1485 " source="Varios_267_3/161.0,1452.0,322.0,52.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_33_1" points="163,1485 483,1490 " corresp="DefaultLine"/>
-          <line>al café ó casino,</line>
+          <line>al café ó casino,</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_34" type="DefaultLine" subtype="none" points="163,1525 161,1543 549,1543 551,1529 549,1498 163,1494 163,1525 " source="Varios_267_3/161.0,1494.0,390.0,49.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_34_1" points="163,1525 551,1529 " corresp="DefaultLine"/>
@@ -844,7 +844,7 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_37" type="DefaultLine" subtype="none" points="161,1643 159,1659 504,1667 508,1649 508,1616 161,1609 161,1643 " source="Varios_267_3/159.0,1609.0,349.0,58.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_37_1" points="161,1643 508,1649 " corresp="DefaultLine"/>
-          <line>es un gran señor;</line>
+          <line>es un gran señor;</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_1_LT83_38" type="DefaultLine" subtype="none" points="171,1682 169,1692 502,1702 506,1688 504,1655 171,1649 171,1682 " source="Varios_267_3/169.0,1649.0,337.0,53.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_1_LT83_38_1" points="171,1682 506,1688 " corresp="DefaultLine"/>
@@ -898,7 +898,7 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_2_LT83_9" type="DefaultLine" subtype="none" points="1467,502 1447,502 1426,500 1405,500 1385,500 1364,500 1343,500 1323,500 1302,500 1281,498 1261,498 1240,498 1219,498 1198,498 1178,498 1157,498 1155,496 1116,496 1116,535 1114,547 1467,551 1471,539 1469,502 1467,502 " source="Varios_267_3/1114.0,496.0,357.0,55.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_2_LT83_9_1" points="1116,535 1471,539 " corresp="DefaultLine"/>
-          <line>que sale engañado</line>
+          <line>que sale engañado</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_2_LT83_10" type="DefaultLine" subtype="none" points="1118,576 1116,589 1533,597 1538,580 1533,541 1118,543 1118,576 " source="Varios_267_3/1116.0,541.0,422.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_2_LT83_10_1" points="1118,576 1538,580 " corresp="DefaultLine"/>
@@ -914,7 +914,7 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_2_LT83_13" type="DefaultLine" subtype="none" points="1217,659 1196,659 1176,659 1155,657 1153,655 1114,655 1114,694 1112,706 1469,713 1473,700 1473,667 1234,659 1217,659 " source="Varios_267_3/1112.0,655.0,361.0,58.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_2_LT83_13_1" points="1114,694 1473,700 " corresp="DefaultLine"/>
-          <line>que vá sin dinero;</line>
+          <line>que vá sin dinero;</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_2_LT83_14" type="DefaultLine" subtype="none" points="1116,737 1116,750 1490,760 1492,737 1490,704 1116,704 1116,737 " source="Varios_267_3/1116.0,704.0,376.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_2_LT83_14_1" points="1116,737 1492,737 " corresp="DefaultLine"/>
@@ -958,7 +958,7 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_2_LT83_24" type="DefaultLine" subtype="none" points="1110,1132 1108,1142 1496,1149 1500,1136 1500,1101 1110,1101 1110,1132 " source="Varios_267_3/1108.0,1101.0,392.0,48.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_2_LT83_24_1" points="1110,1132 1500,1136 " corresp="DefaultLine"/>
-          <line>el señor don fulano.</line>
+          <line>el señor don fulano.</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_2_LT83_25" type="DefaultLine" subtype="none" points="1420,1136 1399,1136 1378,1136 1358,1136 1351,1136 1327,1142 1323,1142 1318,1142 1287,1134 1275,1134 1254,1134 1234,1134 1219,1134 1151,1138 1151,1173 1149,1186 1538,1194 1542,1180 1540,1147 1420,1136 1420,1136 " source="Varios_267_3/1149.0,1134.0,393.0,60.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_2_LT83_25_1" points="1151,1173 1542,1180 " corresp="DefaultLine"/>
@@ -1022,7 +1022,7 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_2_LT83_40" type="DefaultLine" subtype="none" points="1108,1773 1108,1795 1422,1787 1424,1769 1418,1740 1105,1742 1108,1773 " source="Varios_267_3/1105.0,1740.0,319.0,55.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_2_LT83_40_1" points="1108,1773 1424,1769 " corresp="DefaultLine"/>
-          <line>perdonen señores</line>
+          <line>perdonen señores</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_2_LT83_41" type="DefaultLine" subtype="none" points="1110,1816 1112,1847 1149,1831 1294,1831 1312,1843 1314,1843 1316,1843 1318,1843 1320,1843 1347,1833 1473,1843 1478,1812 1471,1781 1108,1783 1110,1816 " source="Varios_267_3/1108.0,1781.0,370.0,66.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_2_LT83_41_1" points="1110,1816 1478,1812 " corresp="DefaultLine"/>
@@ -1072,11 +1072,11 @@
         </zone>
         <zone xml:id="Varios_267_3_BT227_5_LT83_4" type="DefaultLine" subtype="none" points="1269,2089 1248,2089 1227,2089 1207,2089 1186,2089 1165,2089 1145,2089 1124,2091 1103,2091 1083,2091 1062,2091 1041,2091 1021,2091 1000,2091 1000,2126 998,2141 1074,2153 1077,2153 1527,2149 1529,2130 1529,2095 1517,2085 1515,2085 1513,2085 1511,2085 1461,2095 1366,2085 1364,2085 1362,2085 1360,2085 1349,2093 1347,2095 1337,2093 1300,2085 1271,2085 1269,2089 " source="Varios_267_3/998.0,2085.0,531.0,68.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_5_LT83_4_1" points="1000,2126 1529,2130 " corresp="DefaultLine"/>
-          <line>aunque hable legítimamente;</line>
+          <line>aunque hable legítimamente;</line>
         </zone>
         <zone xml:id="Varios_267_3_BT227_5_LT83_5" type="DefaultLine" subtype="none" points="998,2172 998,2192 1023,2205 1025,2205 1027,2205 1070,2194 1083,2192 1095,2196 1118,2203 1120,2203 1122,2203 1124,2203 1126,2203 1134,2196 1147,2190 1192,2198 1238,2207 1240,2207 1294,2201 1294,2167 1289,2136 996,2132 998,2172 " source="Varios_267_3/996.0,2132.0,298.0,75.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_3_BT227_5_LT83_5_1" points="998,2172 1294,2167 " corresp="DefaultLine"/>
-          <line>luego á lo mejor</line>
+          <line>luego á lo mejor</line>
         </zone>
       </zone>
     </surface>
@@ -1109,7 +1109,7 @@
         </zone>
         <zone xml:id="Varios_267_4_BT227_1_LT83_7" type="DefaultLine" subtype="none" points="149,615 149,635 783,637 787,611 780,576 146,582 149,615 " source="Varios_267_4/146.0,576.0,641.0,61.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_1_LT83_7_1" points="149,615 787,611 " corresp="DefaultLine"/>
-          <line>que unos ú otros tienen que mandar,</line>
+          <line>que unos ú otros tienen que mandar,</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_1_LT83_8" type="DefaultLine" subtype="none" points="149,655 149,676 530,668 532,650 526,620 146,622 149,655 " source="Varios_267_4/146.0,620.0,386.0,56.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_1_LT83_8_1" points="149,655 532,650 " corresp="DefaultLine"/>
@@ -1125,11 +1125,11 @@
         </zone>
         <zone xml:id="Varios_267_4_BT227_1_LT83_11" type="DefaultLine" subtype="none" points="153,775 153,795 620,793 620,775 620,740 153,736 153,775 " source="Varios_267_4/153.0,736.0,467.0,59.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_1_LT83_11_1" points="153,775 620,775 " corresp="DefaultLine"/>
-          <line>y todo iria á la perdicion;</line>
+          <line>y todo iria á la perdicion;</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_1_LT83_12" type="DefaultLine" subtype="none" points="151,812 151,828 432,834 434,812 434,782 151,782 151,812 " source="Varios_267_4/151.0,782.0,283.0,52.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_1_LT83_12_1" points="151,812 434,812 " corresp="DefaultLine"/>
-          <line>morir ó vencer,</line>
+          <line>morir ó vencer,</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_1_LT83_13" type="DefaultLine" subtype="none" points="149,854 149,867 671,869 673,847 666,817 146,821 149,854 " source="Varios_267_4/146.0,817.0,527.0,52.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_1_LT83_13_1" points="149,854 673,847 " corresp="DefaultLine"/>
@@ -1177,11 +1177,11 @@
         </zone>
         <zone xml:id="Varios_267_4_BT227_1_LT83_24" type="DefaultLine" subtype="none" points="157,1290 155,1310 386,1307 449,1329 460,1332 462,1332 464,1334 530,1334 532,1294 528,1255 157,1255 157,1290 " source="Varios_267_4/155.0,1255.0,377.0,79.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_1_LT83_24_1" points="157,1290 532,1294 " corresp="DefaultLine"/>
-          <line>respeto á los bigotes</line>
+          <line>respeto á los bigotes</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_1_LT83_25" type="DefaultLine" subtype="none" points="162,1334 162,1358 429,1349 432,1329 425,1299 160,1301 162,1334 " source="Varios_267_4/160.0,1299.0,272.0,59.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_1_LT83_25_1" points="162,1334 432,1329 " corresp="DefaultLine"/>
-          <line>y á la bufanda;</line>
+          <line>y á la bufanda;</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_1_LT83_26" type="DefaultLine" subtype="none" points="160,1373 160,1395 491,1393 493,1369 486,1334 157,1340 160,1373 " source="Varios_267_4/157.0,1334.0,336.0,61.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_1_LT83_26_1" points="160,1373 493,1369 " corresp="DefaultLine"/>
@@ -1223,7 +1223,7 @@
         </zone>
         <zone xml:id="Varios_267_4_BT227_2_LT83_2" type="DefaultLine" subtype="none" points="989,411 987,425 1625,438 1629,418 1627,381 989,379 989,411 " source="Varios_267_4/987.0,379.0,642.0,59.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_2_LT83_2_1" points="989,411 1629,418 " corresp="DefaultLine"/>
-          <line>muchas cosas nos dá á lo contrario,</line>
+          <line>muchas cosas nos dá á lo contrario,</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_2_LT83_3" type="DefaultLine" subtype="none" points="991,453 991,471 1278,473 1283,449 1278,418 989,418 991,453 " source="Varios_267_4/989.0,418.0,294.0,55.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_2_LT83_3_1" points="991,453 1283,449 " corresp="DefaultLine"/>
@@ -1243,7 +1243,7 @@
         </zone>
         <zone xml:id="Varios_267_4_BT227_2_LT83_7" type="DefaultLine" subtype="none" points="1028,613 1028,628 1546,633 1548,609 1541,578 1026,578 1028,613 " source="Varios_267_4/1026.0,578.0,522.0,55.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_2_LT83_7_1" points="1028,613 1548,609 " corresp="DefaultLine"/>
-          <line>No hay que estrañar señores</line>
+          <line>No hay que estrañar señores</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_2_LT83_8" type="DefaultLine" subtype="none" points="991,652 991,668 1223,672 1226,652 1223,620 991,620 991,652 " source="Varios_267_4/991.0,620.0,235.0,52.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_2_LT83_8_1" points="991,652 1226,652 " corresp="DefaultLine"/>
@@ -1319,11 +1319,11 @@
         </zone>
         <zone xml:id="Varios_267_4_BT227_2_LT83_26" type="DefaultLine" subtype="none" points="993,1369 993,1386 1550,1386 1550,1362 1544,1334 991,1338 993,1369 " source="Varios_267_4/991.0,1334.0,559.0,52.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_2_LT83_26_1" points="993,1369 1550,1362 " corresp="DefaultLine"/>
-          <line>ni á Dios ni al prójimo ofender</line>
+          <line>ni á Dios ni al prójimo ofender</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_2_LT83_27" type="DefaultLine" subtype="none" points="993,1413 993,1426 1311,1432 1313,1413 1313,1378 993,1378 993,1413 " source="Varios_267_4/993.0,1378.0,320.0,54.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_2_LT83_27_1" points="993,1413 1313,1413 " corresp="DefaultLine"/>
-          <line>ni á la autoridad,</line>
+          <line>ni á la autoridad,</line>
         </zone>
         <zone xml:id="Varios_267_4_BT227_2_LT83_28" type="DefaultLine" subtype="none" points="1298,1415 1276,1415 1261,1415 991,1419 993,1450 993,1467 1535,1470 1539,1445 1533,1408 1298,1413 1298,1415 " source="Varios_267_4/991.0,1408.0,548.0,62.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_2_LT83_28_1" points="993,1450 1539,1445 " corresp="DefaultLine"/>
@@ -1347,7 +1347,7 @@
         </zone>
         <zone xml:id="Varios_267_4_BT227_2_LT83_33" type="DefaultLine" subtype="none" points="993,1654 993,1678 1074,1695 1076,1695 1118,1691 1219,1675 1250,1702 1256,1706 1256,1708 1259,1708 1261,1708 1263,1711 1331,1711 1331,1647 1324,1616 991,1616 993,1654 " source="Varios_267_4/991.0,1616.0,340.0,95.0/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_267_4_BT227_2_LT83_33_1" points="993,1654 1331,1647 " corresp="DefaultLine"/>
-          <line>perdonen señores.</line>
+          <line>perdonen señores.</line>
         </zone>
       </zone>
       <zone xml:id="Varios_267_4_BT228_3" n="3" type="MarginTextZone" subtype="colophon" points="1308,2285 1313,2352 1145,2350 497,2381 484,2302 588,2286 " source="Varios_267_4/484.0,2285.0,829.0,96.0/full/0/default" corresp="MarginTextZone:colophon">
@@ -1374,8 +1374,8 @@
             <lb/>Y OTRO SAINETE DE DISTINTO TONO.</head>
           <lg>
             <head type="titulo_estrofa">1.°</head>
-            <l rend="indent">Escuchen señores</l>
-            <l>que voy á cantar</l>
+            <l rend="indent">Escuchen señores</l>
+            <l>que voy á cantar</l>
             <l>las verdades puras</l>
             <l>de mi ejemplar.</l>
             <l rend="indent">Que es un caso alegre</l>
@@ -1385,7 +1385,7 @@
             <l rend="indent">Como ven la prueba</l>
             <l>que es clara y segura</l>
             <l>que el que tiene come</l>
-            <l>y el que nó, ayuna</l>
+            <l>y el que nó, ayuna</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">2.°</head>
@@ -1414,7 +1414,7 @@
             <l rend="indent">El hablar con gracia</l>
             <l>es cuando habla un rico;</l>
             <l>pero hablando un pobre</l>
-            <l>tode está mal dicho.</l>
+            <l>tode está mal dicho.</l>
             <l rend="indent">Ay pobre del pobre,</l>
             <l>que es bien desgraciado;</l>
             <l>por razon que tenga</l>
@@ -1440,15 +1440,15 @@
             <l rend="indent">Cuando un pobre al campo</l>
             <l>lo ven atravesar</l>
             <l>todos van diciendo</l>
-            <l>¿donde irá á chupar?</l>
+            <l>¿donde irá á chupar?</l>
             <l rend="indent">Si atravíesa un rico</l>
-            <l>¿dónde va señor!</l>
+            <l>¿dónde va señor!</l>
             <l>con lo que hay en mi campo</l>
             <l>soy su servidor.</l>
             <l rend="indent">Ay pobre del pobre</l>
             <l>que es bien desdichado,</l>
             <l>que por donde pasa</l>
-            <l>está mal mirado.</l>
+            <l>está mal mirado.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">6.°</head>
@@ -1468,40 +1468,40 @@
           <lg>
             <head type="titulo_estrofa">7.°</head>
             <l rend="indent">Ahora por las brujas</l>
-            <l>yo citaré quien:</l>
+            <l>yo citaré quien:</l>
             <l>la que es pobre y fea</l>
             <l>y vieja tambien.</l>
-            <l rend="indent">Jóven rica y maja</l>
+            <l rend="indent">Jóven rica y maja</l>
             <l>tiene dicha tanta</l>
             <l>que aunque sea bruja</l>
             <l>siempre es una santa.</l>
             <l rend="indent">Por esa opinion</l>
-            <l>lo afirmaré yo:</l>
+            <l>lo afirmaré yo:</l>
             <l>pobre y vieja, bruja,</l>
-            <l>rica y jóven nó.</l>
+            <l>rica y jóven nó.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">8.°</head>
             <l>Aunque sea un pobre</l>
             <l>muy listo y curioso,</l>
-            <l>á todos fastidía</l>
-            <l>y á nadie hace gozo.</l>
+            <l>á todos fastidía</l>
+            <l>y á nadie hace gozo.</l>
             <l rend="indent">Mas tiene una dicha,</l>
-            <l>que donde está sentado,</l>
+            <l>que donde está sentado,</l>
             <l>por muchos que haya</l>
-            <l>nunca está apretado.</l>
+            <l>nunca está apretado.</l>
             <l rend="indent">Ay pobre del pobre,</l>
             <l>que siempre es un bolo;</l>
-            <l>si se pone á hablar</l>
+            <l>si se pone á hablar</l>
             <l>se lo dejan solo.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">9.°</head>
-            <l rend="indent">Si un pobre vá á misa</l>
+            <l rend="indent">Si un pobre vá á misa</l>
             <l>y se sienta en un banco</l>
             <l>todos de su lado</l>
             <l>se van apartando.</l>
-            <l rend="indent">Qué dicha tenemos</l>
+            <l rend="indent">Qué dicha tenemos</l>
             <l>en la iglesia, pobres,</l>
             <l>que estamos mas anchos</l>
             <l>que los ricos hombres.</l>
@@ -1512,13 +1512,13 @@
           </lg>
           <lg>
             <head type="titulo_estrofa">10.</head>
-            <l rend="indent">Si un pobre vá á carne</l>
+            <l rend="indent">Si un pobre vá á carne</l>
             <l>con pocos dineros,</l>
             <l>le dan la mas mala</l>
             <l>y casi todo huesos,</l>
             <l rend="indent">Si el pobre se queja,</l>
             <l>ya es un imprudente</l>
-            <l>de poca vergüenza;</l>
+            <l>de poca vergüenza;</l>
             <l>y le echa la gente.</l>
 
             <pb n="3" source="Varios_267_3.jpg" facs="varios/Varios_267_3.jpg"/>
@@ -1531,14 +1531,14 @@
           <lg>
             <head type="titulo_estrofa">11.</head>
             <l rend="indent">Cuando un pobre llega</l>
-            <l>al meson ó posada,</l>
-            <l>qué poco gozo hace</l>
+            <l>al meson ó posada,</l>
+            <l>qué poco gozo hace</l>
             <l>al amo y al ama.</l>
             <l rend="indent">Y luego le dicen</l>
-            <l>si va á dejar el ato</l>
-            <l>¿qué busca por ahí</l>
-            <l>ese uñas de gato?</l>
-            <l rend="indent">Ni á la cocina</l>
+            <l>si va á dejar el ato</l>
+            <l>¿qué busca por ahí</l>
+            <l>ese uñas de gato?</l>
+            <l rend="indent">Ni á la cocina</l>
             <l>le dejan entrar;</l>
             <l>y al fin, acostarse</l>
             <l>pobre sin cenar.</l>
@@ -1551,21 +1551,21 @@
             <l>«ahora se ha acabado.»</l>
             <l rend="indent">Para un rico tiene,</l>
             <l>porque es un buen hombre</l>
-            <l>aunque tarde á pagarle</l>
+            <l>aunque tarde á pagarle</l>
             <l>mas que ningun pobre.</l>
             <l rend="indent">Ay pobre del pobre</l>
             <l>que sin cuartos va,</l>
-            <l>por crédito que haya</l>
-            <l>tarde comerá.</l>
+            <l>por crédito que haya</l>
+            <l>tarde comerá.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">13.</head>
             <l rend="indent">El que es noble y rico,</l>
-            <l>al café ó casino,</l>
+            <l>al café ó casino,</l>
             <l>que en una taberna</l>
             <l>no esta lucido.</l>
             <l rend="indent">Un hombre en casino</l>
-            <l>es un gran señor;</l>
+            <l>es un gran señor;</l>
             <l>y en una taberna</l>
             <l>borracho mayor.</l>
             <l rend="indent">Ay pobre del pobre,</l>
@@ -1580,11 +1580,11 @@
             <l>por mas que cabile</l>
             <l>es un torpe y lego.</l>
             <l rend="indent">Un pobre es un tonto</l>
-            <l>que sale engañado</l>
+            <l>que sale engañado</l>
             <l>y un rico es un sabio</l>
             <l>con dinero en mano.</l>
             <l rend="indent">Ay pobre del pobre,</l>
-            <l>que vá sin dinero;</l>
+            <l>que vá sin dinero;</l>
             <l>aunque limpio vaya</l>
             <l>siempre queda feo.</l>
           </lg>
@@ -1597,7 +1597,7 @@
             <l rend="indent">Si las lleva un rico</l>
             <l>ya es acreditado,</l>
             <l>basta que lo diga</l>
-            <l>el señor don fulano.</l>
+            <l>el señor don fulano.</l>
             <l rend="indent">Ay pobre del pobre,</l>
             <l>que es cosa fatal;</l>
             <l>por verdad que diga</l>
@@ -1615,7 +1615,7 @@
             <l>se han de menester.</l>
             <l rend="indent">Y asi se concluye</l>
             <l>este verso honrado:</l>
-            <l>perdonen señores</l>
+            <l>perdonen señores</l>
             <l>que se ha rematado.</l>
           </lg>
         </div>
@@ -1631,8 +1631,8 @@
             <l>es un embustero</l>
             <l>porque el pobre no tiene dinero.</l>
             <l>A todos ofende</l>
-            <l>aunque hable legítimamente;</l>
-            <l>luego á lo mejor</l>
+            <l>aunque hable legítimamente;</l>
+            <l>luego á lo mejor</l>
 
             <pb n="4" source="Varios_267_4.jpg" facs="varios/Varios_267_4.jpg"/>
 
@@ -1642,12 +1642,12 @@
             <l>porque ya sabemos</l>
             <l>que con razon siempre perderemos,</l>
             <l>mas vale callar:</l>
-            <l>que unos ú otros tienen que mandar,</l>
+            <l>que unos ú otros tienen que mandar,</l>
             <l>porque hay otra cosa</l>
             <l>que sin gefes no habria tropa</l>
             <l>ni disposicion,</l>
-            <l>y todo iria á la perdicion;</l>
-            <l>morir ó vencer,</l>
+            <l>y todo iria á la perdicion;</l>
+            <l>morir ó vencer,</l>
             <l>este mundo saberlo entender</l>
             <l>ojo alerta, amigos,</l>
             <l>paciencia y vivir advertidos</l>
@@ -1661,8 +1661,8 @@
             <head type="titulo_estrofa">2.°</head>
             <l rend="indent">Paciencia y aguantarse</l>
             <l>y quien manda manda,</l>
-            <l>respeto á los bigotes</l>
-            <l>y á la bufanda;</l>
+            <l>respeto á los bigotes</l>
+            <l>y á la bufanda;</l>
             <l>porque hoy en dia</l>
             <l>es la cosa que hay mas prevenida,</l>
             <l>pero si hay honor</l>
@@ -1672,14 +1672,14 @@
             <l>Y por eso hermanos</l>
             <l>tenemos que sufrir y aguantarnos:</l>
             <l>que este mundo vario,</l>
-            <l>muchas cosas nos dá á lo contrario,</l>
+            <l>muchas cosas nos dá á lo contrario,</l>
             <l>Reparar amigos</l>
             <l>que los que mas trabajan,</l>
             <l>mas mal comidos.</l>
           </lg>
           <lg>
             <head type="titulo_estrofa">3.°</head>
-            <l rend="indent">No hay que estrañar señores</l>
+            <l rend="indent">No hay que estrañar señores</l>
             <l>y caballeros;</l>
             <l>que el publicar noticias</l>
             <l>eso es de ciegos,</l>
@@ -1698,14 +1698,14 @@
             <l>toditos juntitos,</l>
             <l>hemos de vivir como hermanitos</l>
             <l>y si puede ser</l>
-            <l>ni á Dios ni al prójimo ofender</l>
-            <l>ni á la autoridad,</l>
+            <l>ni á Dios ni al prójimo ofender</l>
+            <l>ni á la autoridad,</l>
             <l>no perder el respeto y bondad</l>
             <l>y se ha concluido</l>
             <l>y por eso les advierto y digo</l>
             <l>fuera de cuestiones</l>
             <l>si en algo he ofendido,</l>
-            <l>perdonen señores.</l>
+            <l>perdonen señores.</l>
           </lg>
         </div>
         <div type="colofon">

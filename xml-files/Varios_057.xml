@@ -185,7 +185,7 @@
       <zone xml:id="Varios_057_1_BT221_1" n="1" type="CustomZone" subtype="impresorNum" points="1259,182 1233,102 1492,109 1487,177 " source="Varios_057_1/1233,102,259,80/full/0/default" corresp="CustomZone:impresorNum">
         <zone xml:id="Varios_057_1_BT221_1_LT83_1" type="DefaultLine" subtype="none" points="1272,159 1265,113 1462,111 1469,155 1469,181 1272,188 " source="Varios_057_1/1265,111,204,77/full/0/default" corresp="DefaultLine">
           <path xml:id="Varios_057_1_BT221_1_LT83_1_1" points="1272,159 1469,155 "/>
-          <line>Núm. 11.</line>
+          <line>Núm. 11.</line>
         </zone>
       </zone>
       <zone xml:id="Varios_057_1_BT223_2" n="2" type="CustomZone" subtype="title" points="210,1376 208,1625 1612,1615 1614,1330 " source="Varios_057_1/208,1330,1406,295/full/0/default" corresp="CustomZone:title">
