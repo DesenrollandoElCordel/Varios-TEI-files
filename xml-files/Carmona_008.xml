@@ -49,7 +49,7 @@
           </editionStmt>
           <publicationStmt>
             <publisher>[s.n.]</publisher>
-            <pubPlace ref="https://www.geonames.org/2520118/carmona.html">[s.l.]</pubPlace>
+            <pubPlace>[s.l.]</pubPlace>
             <date cert="low" when="1800-01-01">[s.a.]</date>
           </publicationStmt>
         </biblFull>
