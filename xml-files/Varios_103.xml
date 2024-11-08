@@ -52,7 +52,7 @@
             <p/>
           </editionStmt>
           <publicationStmt>
-            <publisher>Tipografía española</publisher>
+            <publisher>Tipografía Española</publisher>
             <pubPlace ref="https://www.geonames.org/3128760/barcelona.html">Barcelona</pubPlace>
             <date cert="high" when="1886-01-01">1886</date>
           </publicationStmt>
